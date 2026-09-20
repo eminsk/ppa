@@ -1,0 +1,75 @@
+name: Update APT Repository
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    paths:
+      - '.github/workflows/update-repo.yml'
+      - 'setup.sh'
+      - 'index.html'
+
+permissions:
+  contents: write
+
+jobs:
+  build-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install APT tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev apt-utils gnupg
+
+      - name: Download latest .deb packages from GitHub Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download --repo eminsk/agentjit -p "*.deb" --clobber || true
+          gh release download --repo eminsk/nanogemm -p "*.deb" --clobber || true
+          gh release download --repo eminsk/nanorecall -p "*.deb" --clobber || true
+          gh release download --repo eminsk/nanovector -p "*.deb" --clobber || true
+          gh release download --repo eminsk/xlsx_vievers -p "*.deb" --clobber || true
+          gh release download --repo eminsk/yfinance-ta-patterns -p "*.deb" --clobber || true
+          ls -la *.deb
+
+      - name: Generate Packages and Packages.gz
+        run: |
+          dpkg-scanpackages --multiversion . > Packages
+          gzip -k -f Packages
+
+      - name: Generate Release file
+        run: |
+          apt-ftparchive release \
+            -o APT::FTPArchive::Release::Origin="eminsk PPA" \
+            -o APT::FTPArchive::Release::Label="eminsk PPA" \
+            -o APT::FTPArchive::Release::Suite="stable" \
+            -o APT::FTPArchive::Release::Codename="stable" \
+            -o APT::FTPArchive::Release::Architectures="all amd64" \
+            -o APT::FTPArchive::Release::Components="main" \
+            -o APT::FTPArchive::Release::Description="Official APT repository for eminsk Python packages" \
+            . > Release
+
+      - name: Sign Release with GPG
+        env:
+          GPG_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+        run: |
+          if [ -n "$GPG_KEY" ]; then
+            echo "$GPG_KEY" | gpg --batch --import
+            gpg --batch --yes --armor --detach-sign -o Release.gpg Release
+            gpg --batch --yes --clearsign -o InRelease Release
+          else
+            echo "Warning: GPG_PRIVATE_KEY secret not found, skipping signature."
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore(repo): update APT repository packages and signatures"
+          git push origin main
