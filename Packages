@@ -1,0 +1,115 @@
+Package: python3-agentjit
+Source: python-agentjit
+Version: 0.1.4-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 79
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
+Filename: ./python3-agentjit_0.1.4-1_all.deb
+Size: 16984
+MD5sum: da4dad1ded800d2feeecfd127542c88b
+SHA1: 535fe52865c271ae4d5f9cae5f964c14134dccd4
+SHA256: e8e51a91ffd3a090d1aa68a5925af76e4adf7e048d76fad85bf5c3f037a5c745
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/agentjit
+Description: Just-In-Time Compiler for AI Agent Trajectories
+ Compiles multi-step LLM workflows into ultra-fast deterministic Python code
+ with zero token cost and sub-millisecond execution.
+
+Package: python3-nanogemm
+Source: python-nanogemm
+Version: 0.3.6-1
+Architecture: amd64
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 110
+Depends: libc6 (>= 2.4), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanogemm_0.3.6-1_amd64.deb
+Size: 31296
+MD5sum: f9c7c822014bc90324e1f0c9e80d8c7b
+SHA1: 209f542239f8ecac8c95084b56f067c575fe00aa
+SHA256: b84d9851500888a8a6c00759668dd05be17c8b5f5288fda4bb47b5f8c30830c2
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanogemm
+Description: Minimalist bare-metal SIMD & Assembly GEMM engine for Python
+ Sub-microsecond CPU matrix multiplication microkernels for AI and
+ scientific computing.
+
+Package: python3-nanorecall
+Source: python-nanorecall
+Version: 0.1.1-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 97
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanorecall_0.1.1-1_all.deb
+Size: 22484
+MD5sum: 34fbe5bb51310babf5530189a2767b42
+SHA1: 0bfa6b0eab9578b879a0e34382ee48c1c30d2926
+SHA256: 03c6ba852ba779f3ed9fb6453b4fe07df0fb8462d0279489a966fbf3bd0db2ab
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanorecall
+Description: Private Zero-Cloud Desktop Memory & Screen Search Engine
+ 100% private, zero-cloud bare-metal desktop memory and screen search
+ engine alternative to Windows Recall with zero NPU requirements.
+
+Package: python3-nanovector
+Source: python-nanovector
+Version: 0.1.4-1
+Architecture: amd64
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 106
+Depends: libc6 (>= 2.14), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanovector_0.1.4-1_amd64.deb
+Size: 28096
+MD5sum: fb7736ce690f9e3f2bbc026dff18a702
+SHA1: dba7029ff00f44c32894ed2fe3c13e3db4833677
+SHA256: 1afe75e63cd250f3c88ba9fed7ed7ad1b62767746cb567a90c8a9a837727c00e
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanovector
+Description: Minimalist SIMD-accelerated vector search and episodic memory engine
+ The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
+ Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
+
+Package: python3-xlsx-viewer-pro
+Source: python-xlsx-viewer-pro
+Version: 1.0.7-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 492
+Depends: python3-openpyxl, python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
+Filename: ./python3-xlsx-viewer-pro_1.0.7-1_all.deb
+Size: 80992
+MD5sum: 60a2e35893954b0a30f9d821706bc57a
+SHA1: 575b2d05d39a9fc8acdc8621823fbcaf34eef035
+SHA256: 0cda43a9da83b61853a3a00a9dadd719c3919e78be01be3ce4462a189cda261e
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/xlsx_vievers
+Description: Modern Excel spreadsheet engine, SIMD math, and GUI viewer
+ High-performance spreadsheet engine with 129 formula functions,
+ SIMD SSE2 math engine, and desktop viewer.
+
+Package: python3-yfinance-ta-patterns
+Source: yfinance-ta-patterns
+Version: 0.3.35-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 284
+Depends: python3-rich, python3-typing-extensions | python3-supported-min (>= 3.11), python3-tz, python3:any, python3-pandas, python3-numpy
+Suggests: python3-yfinance
+Filename: ./python3-yfinance-ta-patterns_0.3.35-1_all.deb
+Size: 57702
+MD5sum: be9bf38c6d951579708ec0aa07cfbcce
+SHA1: 73a738bcba369f0f836d8a1f3d87f59f98487ea2
+SHA256: 1646f454c0579e5e0c8a544e5b9d0f186d5e1880984d1f8828e0f2402142c94a
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/yfinance-ta-patterns
+Description: Institutional-grade market candlestick pattern scanner
+ Institutional-grade market candlestick pattern scanner with multi-asset
+ backtesting, AI confluence scoring, and LLM market intelligence.
+

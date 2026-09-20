@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: all amd64
+Codename: stable
+Components: main
+Date: Sun, 20 Sep 2026 13:29:59 +0000
+Description: Official APT repository for eminsk Python packages
+Label: eminsk PPA
+Origin: eminsk PPA
+Suite: stable
+MD5Sum:
+ 5bf28fa1d9beb3da4b54f7f4d832782d             4636 Packages
+ 313edac0627e1bffe3afa1b6b00c4758             1797 Packages.gz
+ c1012d89b819390ba4501847aecc1625              212 Release
+SHA1:
+ 61abdc6d541196df360357903877ae2aaa354d2f             4636 Packages
+ 75b99c8a685cc32863b3b2e73873f7c0e0d9d970             1797 Packages.gz
+ 0eab403706103c4b3c529d612200ba69df83d80d              212 Release
+SHA256:
+ 8ba667d45f9dc21c95243f730a1675c5565df333840f15924081d156f979c0a3             4636 Packages
+ 61c4eec52f9e593a07f066c8c88cdd7e82474a99f044c74168eb54bd9bc58dba             1797 Packages.gz
+ 641cb6a8310b929a9a55b6225c505d18414f0727b9d470e932ebf1321c78e19f              212 Release
+SHA512:
+ f434bc06a5fb2110b6a8d427108a497a104505eff3a8d368b4f85372bd9839d938f17c381c73865d212098f1fab902da2a640b0f6f1e6a715ce53e60c92cb560             4636 Packages
+ cda516fb796d3ab0e7c0030c51c1a505861598e24bda1152f216cd0082287ded7706f7169e24a926239db459a0ef3257139acca094cfc5cbdb55cee4ec7404da             1797 Packages.gz
+ dd92f74f3c4aebd49d84680729b45e1194098471ed0c39d1bef7a1d31ae05f59a34da29cc312c7c6303cea2d5a21f2aa7e0e8f16707e89827fc3b105ef44c98d              212 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmqv39gACgkQqLL6JDEy
+CGDBpQ//S8Cr5V6hFcwKllOWKc9JI0mzRZhLXEKJoftrZ2uQapVMLOABG+E/2A27
+PXd0Ew8lJ3UJrNedUrUA/V1BreLQDqllPKDkYcN6bwO48ts7qkFQxT2ZfF1muPCC
+sd4krD6/F4/78iYe6/dchptaL7Sx7Ya4F0G61X/4U56GJ9rFD54Gbkx4UaDkuHM+
+LY2hW5tFnxPwFq+4nx4Kotbz1G1tBjSTXZorW12d7x0g/Qxx0BtGqUfnBmMd6PAL
+tIYDenMXw5/+FXXVWyoNMA1Q4n/zWll7r+BuTjyQbCaeYNjQVuINalO1cgYZLlSr
+xMK8ugutH54j1psaCY1SyL3JgL8EUvqhm9Rp0OTEprDUr+pds3oOuul8NmFLS7sJ
+WREktj7j9vNAXV89OvtcEcV8C28Oj2GpOo2ef/JFpDSUVdkYUDpRt9sZu/g79sZ2
+2q9CGLRku9BxHFtc//+THwugJ9kYwPs0/3v/+3xRDwMzDj+CkNMSwWBmRuXFdb8f
+HZdncXJYFxHWQCahZs2LluqFPHN2+88aU0/XIhfXP84u698xO0UCt2w3Q344gwx3
+22gT/hVqTXqxBh1ynEPALug3/fyeY00LAcY3DoAfckswXsUL3VPzrjBXVSuEFdWD
+CS+ULayqnUBmn0AKBFeGOEv8Cnjym5CsZcuwTT6nUrWZXHwSNSk=
+=fdhO
+-----END PGP SIGNATURE-----
