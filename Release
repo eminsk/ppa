@@ -1,24 +1,24 @@
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Thu, 24 Sep 2026 02:37:49 +0000
+Date: Fri, 25 Sep 2026 02:54:55 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
  5bf28fa1d9beb3da4b54f7f4d832782d             4636 Packages
- 325af33513a5549736785f232c0fafcc             1797 Packages.gz
- 3407fc9a5ea909404a88ef331d6e4acb              212 Release
+ a57300b8fd8219a52aee1209b709319b             1797 Packages.gz
+ 330821f7d731492ecc9a08c6ec28bdc5              212 Release
 SHA1:
  61abdc6d541196df360357903877ae2aaa354d2f             4636 Packages
- 7c3ff8c80dc33af6f79953f1236dfe75308b437f             1797 Packages.gz
- b2c1ab9e37ecedda4f4047c2ad64378cf2de9e01              212 Release
+ 7b80deb26aed9ebf9a406dcca37e00a1a224fdb7             1797 Packages.gz
+ f04887ad75cfdaa0e94b9d760db897c102f2ced3              212 Release
 SHA256:
  8ba667d45f9dc21c95243f730a1675c5565df333840f15924081d156f979c0a3             4636 Packages
- b00afce12e961c47859f3984a40682f4d0c6c06399ebbd4f13456577d2b974db             1797 Packages.gz
- ff7cda57dd834c0c62f5ded2f3d83e21682de7aec6afdf6f7b22797dd5d7c05e              212 Release
+ b0512814d7cf8798730f203a542a6e394a046d598400171a674cceb807aab402             1797 Packages.gz
+ f31c213083384f332795237df20539ae297a4c7380b3b3d6e892b8526d652cc5              212 Release
 SHA512:
  f434bc06a5fb2110b6a8d427108a497a104505eff3a8d368b4f85372bd9839d938f17c381c73865d212098f1fab902da2a640b0f6f1e6a715ce53e60c92cb560             4636 Packages
- 52d41f38285b7919bfc4a3db68547924577c70709d2a825bd403ddd3a472c9b471d34c4491a8bd46816557e54070878fa1343ce9224f651b05696d7f9167e5f0             1797 Packages.gz
- 3d6068337d975f1783bc32df1c7ed51b46c79bd1f2ee120b3a708089b8dc70eaf3d83fed6fb710c2afe715ddc86a82646477d7f398f5dff434537be1ae8b7fb6              212 Release
+ e872944b658ffba7006152a836da739e9c6f5d3c423b946463aae3ef63d6369acef62935c1c8906de10b3b56e7074253ac54a73b92534ab0ccb74de4530d195f             1797 Packages.gz
+ 56d55be25c8994aa9adfef20cd78ef38eca1c484f660a2233ec336848756e5a9db0364b66e519d4df5627987ecbde6108e0bf032db526358247985720b1c08b3              212 Release
