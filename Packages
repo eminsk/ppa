@@ -17,18 +17,37 @@ Description: Just-In-Time Compiler for AI Agent Trajectories
  Compiles multi-step LLM workflows into ultra-fast deterministic Python code
  with zero token cost and sub-millisecond execution.
 
+Package: python3-agentjit
+Source: python-agentjit
+Version: 0.1.6-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 79
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
+Filename: ./python3-agentjit_0.1.6-1_all.deb
+Size: 17134
+MD5sum: 74c49b585babc0c7bcbd9d2f0dc7b32c
+SHA1: c83ef5f03e606b28f40cde132b5bf09b1b488d21
+SHA256: 91ddaac90ba99a23399677ca8cf586ff06343c468ec517d98ca50eb1d0966e16
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/agentjit
+Description: Just-In-Time Compiler for AI Agent Trajectories
+ Compiles multi-step LLM workflows into ultra-fast deterministic Python code
+ with zero token cost and sub-millisecond execution.
+
 Package: python3-nanogemm
 Source: python-nanogemm
 Version: 0.3.6-1
 Architecture: amd64
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 110
+Installed-Size: 111
 Depends: libc6 (>= 2.4), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanogemm_0.3.6-1_amd64.deb
-Size: 31338
-MD5sum: ba085a12ec888e3b737deebddbb60524
-SHA1: 71a5ebf69175d2fb25b4a4f2459f254939c9a286
-SHA256: 8f54dcced21ab2c6228b541f852ca7ebe8668ce18aac589c6b4d411461546445
+Size: 31664
+MD5sum: 0c6ce1620d98a0729aa8153bd195cde7
+SHA1: 5f20b07cd086d8f1b33681944a4e1b826d91b0c9
+SHA256: e5790b087da17d2dc753e02987c54127a4bb97494cd51df8796e36f748578249
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanogemm
@@ -41,13 +60,13 @@ Source: python-nanorecall
 Version: 0.1.1-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 98
+Installed-Size: 99
 Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanorecall_0.1.1-1_all.deb
-Size: 22744
-MD5sum: 806ba4caecddfe517d5c66be0264a224
-SHA1: 5c3cad2fae1302d6916318fe50964b7ad5a97311
-SHA256: f276b1eeeb3ae7bfe4a131d8bd7b4cb4fbd2b037e7ab520efe9aaefb626c2a3a
+Size: 22932
+MD5sum: 7083bf4e82c953f3ad441fbb862cf9a6
+SHA1: 02063b6eddd1ea21b0ccdd0656baa0a13905deb9
+SHA256: 4e4ba1a82ec8638c64fa99bfc4ec3c87cc1d62a604c31263847c2d1ffbd5b348
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanorecall
@@ -60,13 +79,13 @@ Source: python-nanovector
 Version: 0.1.4-1
 Architecture: amd64
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 106
+Installed-Size: 112
 Depends: libc6 (>= 2.14), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanovector_0.1.4-1_amd64.deb
-Size: 28244
-MD5sum: e3cd70d4c7cf63824bba51bd7c02818a
-SHA1: 0e84e9b95cc3b0095cd841212cd8bd585412c6f6
-SHA256: 580bfab697920d3053321a2b23d768ff1c1a8b6e8a2dfbec4f3c0ce9b2dd7eec
+Size: 29486
+MD5sum: 574b001fbbc2b2c377999b158e609052
+SHA1: 65f6d2ad39df9b8e4a796a9e290e9d141530e3d3
+SHA256: a694f34933857651d562185f25db156345c19475446f7239149354fb510e3874
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanovector
@@ -82,10 +101,10 @@ Maintainer: eminsk <M_N_N@tut.by>
 Installed-Size: 493
 Depends: python3-openpyxl, python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
 Filename: ./python3-xlsx-viewer-pro_1.0.7-1_all.deb
-Size: 81134
-MD5sum: 36f6f625c54faf27ed2e04fa7432b2d6
-SHA1: 77a58af875cd00191b321115edfcda4d765858ad
-SHA256: c662d5134048d22ecb2bbd9adbf067e3b92d9d84a8b8e53ee63143a1027457c5
+Size: 81152
+MD5sum: d55e69008eb578d0652f458755c0f4ef
+SHA1: 7d600476885aabaabf363f184a547fe9e5cb7822
+SHA256: 49a7e36009aa58931e153779b56634606fd2f3325161b1d53b0fc524b26f7d30
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/xlsx_vievers
