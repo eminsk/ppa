@@ -17,14 +17,15 @@ Once installed, install any package directly with `apt`:
 ```bash
 # Install individual packages
 sudo apt install python3-agentjit
+sudo apt install python3-avito-sdk
 sudo apt install python3-nanogemm
 sudo apt install python3-nanorecall
 sudo apt install python3-nanovector
 sudo apt install python3-xlsx-viewer-pro
 sudo apt install python3-yfinance-ta-patterns
 
-# Or install all 6 in a single command
-sudo apt install python3-agentjit python3-nanogemm python3-nanorecall python3-nanovector python3-xlsx-viewer-pro python3-yfinance-ta-patterns
+# Or install all in a single command
+sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nanorecall python3-nanovector python3-xlsx-viewer-pro python3-yfinance-ta-patterns
 ```
 
 ---
@@ -34,6 +35,7 @@ sudo apt install python3-agentjit python3-nanogemm python3-nanorecall python3-na
 | Package | Upstream Repository | Description |
 |---|---|---|
 | `python3-agentjit` | [eminsk/agentjit](https://github.com/eminsk/agentjit) | Just-In-Time Compiler for AI Agent Trajectories |
+| `python3-avito-sdk` | [eminsk/avito-sdk](https://github.com/eminsk/avito-sdk) | Autonomous Avito scraping & data extraction SDK with price tracking |
 | `python3-nanogemm` | [eminsk/nanogemm](https://github.com/eminsk/nanogemm) | Minimalist bare-metal SIMD & Assembly GEMM engine |
 | `python3-nanorecall` | [eminsk/nanorecall](https://github.com/eminsk/nanorecall) | Private Desktop Memory & Screen Search Engine (Recall Alternative) |
 | `python3-nanovector` | [eminsk/nanovector](https://github.com/eminsk/nanovector) | The SQLite of Vector Search & Episodic Memory (~120KB) |

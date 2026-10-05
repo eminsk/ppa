@@ -35,6 +35,7 @@ jobs:
           gh release download --repo eminsk/nanovector -p "*.deb" --clobber || true
           gh release download --repo eminsk/xlsx_vievers -p "*.deb" --clobber || true
           gh release download --repo eminsk/yfinance-ta-patterns -p "*.deb" --clobber || true
+          gh release download --repo eminsk/avito-sdk -p "*.deb" --clobber || true
           ls -la *.deb
 
       - name: Generate Packages and Packages.gz
