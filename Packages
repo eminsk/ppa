@@ -57,6 +57,27 @@ Description: Autonomous Avito scraping & data extraction SDK
  with price tracking, parameters parsing, and async support. Includes
  CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
 
+Package: python3-avito-sdk
+Source: python-avito-sdk
+Version: 0.1.2-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 155
+Depends: python3-bs4, python3-requests, python3:any
+Recommends: python3-openpyxl, python3-httpx
+Filename: ./python3-avito-sdk_0.1.2-1_all.deb
+Size: 31446
+MD5sum: ae475d4aa9361df0c22c4437f15b9ec1
+SHA1: 5dfccc8343692863e6a4722ae554eed23f35f6d9
+SHA256: 8207648b4624b5772f520cadf974046db83c9e67b4d417e24355dcc468dd7657
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/avito-sdk
+Description: Autonomous Avito scraping & data extraction SDK
+ High-performance headless Avito scraping and data extraction SDK
+ with price tracking, parameters parsing, and async support. Includes
+ CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
+
 Package: python3-nanogemm
 Source: python-nanogemm
 Version: 0.3.6-1
