@@ -36,6 +36,27 @@ Description: Just-In-Time Compiler for AI Agent Trajectories
  Compiles multi-step LLM workflows into ultra-fast deterministic Python code
  with zero token cost and sub-millisecond execution.
 
+Package: python3-avito-sdk
+Source: python-avito-sdk
+Version: 0.1.0-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 101
+Depends: python3-bs4, python3-requests, python3:any
+Recommends: python3-openpyxl, python3-httpx
+Filename: ./python3-avito-sdk_0.1.0-1_all.deb
+Size: 20562
+MD5sum: cd77dfcf2e681c2d1c3c5df188eec1e2
+SHA1: b7a533717e658620826a937f701279b7d331fc2a
+SHA256: d8f9b979bf5f7ed54d565fe5d06eadee27d21f74704fbb2c23f103b196bed9b7
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/avito-sdk
+Description: Autonomous Avito scraping & data extraction SDK
+ High-performance headless Avito scraping and data extraction SDK
+ with price tracking, parameters parsing, and async support. Includes
+ CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
+
 Package: python3-nanogemm
 Source: python-nanogemm
 Version: 0.3.6-1
