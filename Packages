@@ -156,6 +156,25 @@ Description: Minimalist SIMD-accelerated vector search and episodic memory engin
  The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
  Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
 
+Package: python3-nanovector
+Source: python-nanovector
+Version: 0.1.6-1
+Architecture: amd64
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 112
+Depends: libc6 (>= 2.14), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanovector_0.1.6-1_amd64.deb
+Size: 29768
+MD5sum: a3f7a1439eebba4923c1951d1c3b48cf
+SHA1: c70ea03db0cd857247f5b9e9ebde9bba643c98af
+SHA256: 0d2ad5221a90d06e6e9e4c03d5b0e4b3d2efde211cdf2163167afe60f9fd8e40
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanovector
+Description: Minimalist SIMD-accelerated vector search and episodic memory engine
+ The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
+ Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
+
 Package: python3-xlsx-viewer-pro
 Source: python-xlsx-viewer-pro
 Version: 1.0.7-1
