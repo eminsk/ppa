@@ -357,14 +357,14 @@ Source: yfinance-ta-patterns
 Version: 0.3.48-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 456
+Installed-Size: 477
 Depends: python3-rich, python3-typing-extensions | python3-supported-min (>= 3.11), python3-tz, python3:any, python3-pandas, python3-numpy
 Suggests: python3-yfinance
 Filename: ./python3-yfinance-ta-patterns_0.3.48-1_all.deb
-Size: 85526
-MD5sum: 8b6f4842b05b7837837b11d6eaba5f8c
-SHA1: e611b6db07e3e64bf28a07e36109a18726c7b6dd
-SHA256: ffb67f6bdb4adc8138f1aa10f6e5799189643749b58ff155c008d85c93f6f90b
+Size: 88986
+MD5sum: 4fee5437f9f30f4b1dac2c996ce855ee
+SHA1: fd424cc0cb6b091ef6134c94156b4dc26ddb8538
+SHA256: e203419c3147aa68a252efc84ec2c6e499cbb3e4dfdd2a1138bb9439dc49356b
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/yfinance-ta-patterns
