@@ -144,13 +144,13 @@ Source: python-nanogemm
 Version: 0.3.8-1
 Architecture: amd64
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 134
+Installed-Size: 143
 Depends: libc6 (>= 2.4), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanogemm_0.3.8-1_amd64.deb
-Size: 36576
-MD5sum: dfd139f105f1cabfb1360937043897de
-SHA1: 576015345ac93d4d774d800ed2cffe77fb507b4a
-SHA256: c48929189679c5ba7d7171960f5f5cd5e06d00d18cec6b4b3891b392922c70c9
+Size: 38294
+MD5sum: 0c9a7c22fce1c4b6a329b897f80e1712
+SHA1: 13ef1500d06a57eb7ac5a238cfe4a018ce5d5a6e
+SHA256: c757236dc9012d06b958ba94bd2f165332edfb5d76f2c2ad29e338396169be9c
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanogemm
@@ -227,6 +227,25 @@ Size: 33230
 MD5sum: 7e88e414ad2cc4ff52e8a39f8f42d59f
 SHA1: 2c75eed3f74e0410d1e39246a61359a47ea6c73e
 SHA256: 29e263e7631f81395098efbb29f13364e2fee9fbc83273d0c3f410b331021123
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanovector
+Description: Minimalist SIMD-accelerated vector search and episodic memory engine
+ The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
+ Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
+
+Package: python3-nanovector
+Source: python-nanovector
+Version: 0.1.8-1
+Architecture: amd64
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 156
+Depends: libc6 (>= 2.14), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanovector_0.1.8-1_amd64.deb
+Size: 38168
+MD5sum: 7a019217f3ece67646ad1dd6b26ab06c
+SHA1: aaae545b5e9b62c0f7b1e3205ac0e8f093ad9564
+SHA256: 4bea58be43654000ac60b84ba46803fbc44a03621863105d88408f96200a4c4e
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanovector
@@ -361,10 +380,10 @@ Installed-Size: 481
 Depends: python3-rich, python3-typing-extensions | python3-supported-min (>= 3.11), python3-tz, python3:any, python3-pandas, python3-numpy
 Suggests: python3-yfinance
 Filename: ./python3-yfinance-ta-patterns_0.3.48-1_all.deb
-Size: 89934
-MD5sum: 58daffae44e1df53a7334ff3b727ffa0
-SHA1: ae77f200daf69824b797346f6f58188690de9989
-SHA256: a2d3a551eca41d73b5ed7fcbc3072c9c180ef37bf2a47fb7862d21fb20293e1b
+Size: 89928
+MD5sum: de61af38fdf7eca51e62d6d98fde3ef6
+SHA1: ec3cd0cfe95049a04899ec093d9c533ce1907ba1
+SHA256: 1df00451eef9807e32e8ff73c8f4b325c0dbf667a0723c955346f8e5b7b2d3a0
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/yfinance-ta-patterns
