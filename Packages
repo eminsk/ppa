@@ -258,13 +258,32 @@ Source: python-nanorecall
 Version: 0.1.6-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 105
+Installed-Size: 155
 Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanorecall_0.1.6-1_all.deb
-Size: 33088
-MD5sum: 4013cff0ed8a52e9df24a5de19c51407
-SHA1: 5dd18093004830054685183f7d8192046923ea1c
-SHA256: ccf72b7b53f662ed5de3be4e8351538c7707ed7a7bb15ae9403df384c1012bb5
+Size: 34866
+MD5sum: 6ebb82eb2242f8b67c9ddd507bfa154b
+SHA1: 31c4316ee87f5a82c52c2bcce347158b6a6025e0
+SHA256: 9eeae06e20148622f75dd3d21820e720a97693b72dbf4cdada949b5e9f6266c6
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanorecall
+Description: Private Zero-Cloud Desktop Memory & Screen Search Engine
+ 100% private, zero-cloud bare-metal desktop memory and screen search
+ engine alternative to Windows Recall with zero NPU requirements.
+
+Package: python3-nanorecall
+Source: python-nanorecall
+Version: 0.1.7-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 105
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanorecall_0.1.7-1_all.deb
+Size: 33308
+MD5sum: 1b10ac316afea394391409b97c6dc10d
+SHA1: f62ac671e1075772588a3117d7d170d67eda699c
+SHA256: e3d1b8f5fba3a0255163c2749e630b03f2316d7df72d7fb66482a8409908efb8
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanorecall

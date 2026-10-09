@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Fri, 09 Oct 2026 20:55:16 +0000
+Date: Fri, 09 Oct 2026 22:06:28 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
- ef9c4975fdab7e0f261130fb35058f00            18804 Packages
- 1ccb17c340c8e01594ae1a40aeaeb16c             4024 Packages.gz
- 3140294fb18772f7f289d4de42f3478c              212 Release
+ 85341fade2c217ec424fb89c3db9eb63            19553 Packages
+ 27bb477e79c1c60641eb533f4a35f831             4136 Packages.gz
+ 6af62d272874dd314a5ca07522d8985c              212 Release
 SHA1:
- cb188a25de626db468f22969a7b0881090e7dce3            18804 Packages
- d7fae1f4b1087103b856d41d4e8ab2aa4d54aa3f             4024 Packages.gz
- c2d19b87b2182af4edd59690292265ca0298cb0a              212 Release
+ 1ab0ded63bbd59b69e0dba5e173448b083cbc7c6            19553 Packages
+ d81b8593eeced132e8b09a8573d71ed46d33527b             4136 Packages.gz
+ 52953ce65a61c5395c85f24f4611463a8b44390e              212 Release
 SHA256:
- 52e499b839323a4c3a79795c251ee997790118d2ef2d86635743ed77799b5793            18804 Packages
- b72018ef7bb93cbdd61777d573fa8057d840a000fddc8d86e0a569147fe3494f             4024 Packages.gz
- 1e0d0442baeb16d952161a5302a87772b08f6c8e55c08d1474bf4d63bc438f24              212 Release
+ e810ea565b63cf4a9809723a3c9ac3a6cf4b982ffe2e0c33bf02747c51f826b6            19553 Packages
+ c1206f274f84ee9237e07d9f04d0f857d908afaaacb35d2987bdf1ddd084f289             4136 Packages.gz
+ e34d4571cb709e0dd0a7029fbc475945843bb166d200fe32e190fd84e98c1b20              212 Release
 SHA512:
- 84a3a93dc5eac7c691a2c7550acbca8ad3f3a3c10723bd0b2e0b5ede5ec5ed98bb6d48121bc9d637dfd4586375906c87585bfc0f9eafc91278e3ec121b81fef2            18804 Packages
- e2df85b34940370f03db13005db7525655336bdf318a36895f33af300fc59dc5bca6c006652d9158cb745f87caa21193259e3ceb7843e4941949b9a36824a834             4024 Packages.gz
- 849caa8c6de926943a0027fb121100f78c5eb965cd5f397fcdad8ead79185fe05c0b5c12fd68f59d4cf14e25ce1c9c65c339a643a41a851d11878e02a66e3c4a              212 Release
+ f3ea12ffc0e46233a088ee57d9816f33369b70f325aac34109cf93056b780fae7082c3a60eb7072bdf2d938eb7efe37a7334c182fb868a48b361092dc5ea7832            19553 Packages
+ 7aa0917aa4c7a59de8a541c7376d1e77e44464d4bee2dc96c444852fd19c5cc62e0ae0ece0671aa659c9e30b0f0211fc650b28a5f7cc7f20c451d9a623e5c0bf             4136 Packages.gz
+ a44d826112fa03fd7ad827af062201df46253cece196212c0b541d8b49537d7e148b1edfe773c4bd47c14555cad76a7da539ff5477cc42f55a7192bd2ffc7017              212 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmrJVLQACgkQqLL6JDEy
-CGC/NxAAgpL4E1G4Q2GjZixhb0u+E/VPiigskCrECOKTQSkyCF9rzDaaJInM2R7B
-XBd+RPTYbhsAttpQn/33pjagdx8blbXbT3RiCDze4zErHyr2q0FQNBEW50y8F1+t
-di1SyWJxl+zfgT9llHptGsUjS1rvij/YfOBjYa2YiRn2GeRqzDOfcIMU4s6Bv6ZK
-Wy4SpPunVP1kEfPAw7u+14lvp9kuXz4sonz8EWqjf9N4ISNp/vidEdP7uqz7rYt3
-VjJwdIr30cT9618QxQ2BcHyISSt9l6Y5fhD/Dz7OuVUxfrjZocdkKLCsqfS3+QOs
-qkl1bbUodMt3mzRQm350GkHqnGsx/AlptDiStiJwOvo5XZRRZDAycrGRo1u+NWUh
-ucvOdTMlW9HdplusyuVBROxU3qJTx/JAus5NURu2rhstnDTdihb8GoJcvsVjNqrl
-vOYcZpC0LHJ2hGn89X9oYzuiJHl1lqY8sT+BGql3B1om52ZoB1oJPVW8+2pnNPob
-JhaquQLkUHNon0AoKZeTffDoIlcl0y+xl4TPaATPvt9Usb3T/CQGrNdeONcsgQuM
-2poXNKjr5IJxPb6JBkw06m00OIMdG87fIX/hWwuW7kD242ijriuv906vyCxqjueW
-loCsK+WXnBBSmosARG4Blvi3XLSMVadDEvs0nSBZaC1CbNBlgl0=
-=TZJP
+iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmrJZWQACgkQqLL6JDEy
+CGADEg//XSiGu0Q2CyZUBCzgUxBTuYWWwmNd7xMxppeBRQtSHds2Z1MPLeGIrV6E
+mD11PPRsbnzlEe/K6yDsMCgCx7RIN6Q4JbBG7akE9aRkdcJNb5HoGWdHT7IV2Rvl
+uDEAAhjQ4hcJKDiQnPZPIL7EvXgsC1gBi0DTYQrhzPWx0PZpVk5tfNfHNMfpWaug
+zB2iwz6nu4xORPdck7PNheFXpzLzQ1EbtEtDZUpBSdjOFFYpjmQbMaSA0uD6l1wa
+15QSaU7tpLhnhj4FOSvPHPtoll6Q18pECoJx6XTAhPvCtWiu+tokP25cPz5XcyMR
+htE2/2sXnMvwlds7vQR9s6iHVHirRWjwITXPKYwlhhTlHCUhfXqH04GV+qt5MTgH
+UMDmRphFCBXAet94QJQGj4BjPuvim/F84GmS2hwBpuMcwjaH+JgTkNRkhszgo7Dz
+LVSKJT00nhgMl3yUpVbT7+Ezewy7ZXx2KaeRofa0qx3uCitdsmAI6jXtIuGN4eC1
+PHJ15z1sGMEuO7qdTkLegTpDQ1BJV/fIt7do1Axvlgvf7pxcVrdszZI53CeElxnb
+8SC4OJn31gNESVPeP41MrCTQjYYCOhoT7SCFMxFtFN02tDf40CBB6YKDCe3KXdER
+P8WOaLCs7Nphksc69LRRUdB0bP7XQ81O61FcSgFErR/6vW+fryw=
+=n0JN
 -----END PGP SIGNATURE-----
