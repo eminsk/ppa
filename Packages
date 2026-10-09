@@ -36,6 +36,25 @@ Description: Just-In-Time Compiler for AI Agent Trajectories
  Compiles multi-step LLM workflows into ultra-fast deterministic Python code
  with zero token cost and sub-millisecond execution.
 
+Package: python3-agentjit
+Source: python-agentjit
+Version: 0.1.8-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 132
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
+Filename: ./python3-agentjit_0.1.8-1_all.deb
+Size: 29176
+MD5sum: 219064f34f0342d1b4f8843ea305f366
+SHA1: cc91fcd30f80f3a27ec16d8f24994dc6a10eb974
+SHA256: 88abbad6720f5d5c59087fa91f05678193392c4b8e45973982fcebc718ae91fb
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/agentjit
+Description: Just-In-Time Compiler for AI Agent Trajectories
+ Compiles multi-step LLM workflows into ultra-fast deterministic Python code
+ with zero token cost and sub-millisecond execution.
+
 Package: python3-avito-sdk
 Source: python-avito-sdk
 Version: 0.1.0-1
