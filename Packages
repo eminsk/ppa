@@ -253,6 +253,25 @@ Description: Private Zero-Cloud Desktop Memory & Screen Search Engine
  100% private, zero-cloud bare-metal desktop memory and screen search
  engine alternative to Windows Recall with zero NPU requirements.
 
+Package: python3-nanorecall
+Source: python-nanorecall
+Version: 0.1.6-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 105
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
+Filename: ./python3-nanorecall_0.1.6-1_all.deb
+Size: 33088
+MD5sum: 4013cff0ed8a52e9df24a5de19c51407
+SHA1: 5dd18093004830054685183f7d8192046923ea1c
+SHA256: ccf72b7b53f662ed5de3be4e8351538c7707ed7a7bb15ae9403df384c1012bb5
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/nanorecall
+Description: Private Zero-Cloud Desktop Memory & Screen Search Engine
+ 100% private, zero-cloud bare-metal desktop memory and screen search
+ engine alternative to Windows Recall with zero NPU requirements.
+
 Package: python3-nanovector
 Source: python-nanovector
 Version: 0.1.4-1
