@@ -1,5 +1,24 @@
 Package: python3-agentjit
 Source: python-agentjit
+Version: 0.1.10-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 143
+Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
+Filename: ./python3-agentjit_0.1.10-1_all.deb
+Size: 31772
+MD5sum: 747a76d04e900b168fc283ebacbbe0f9
+SHA1: ce2bf70b9c02e1f370ebcae7fb6fa13c39fc86d6
+SHA256: 4ffde5eb8f249372b8b108acb2b917e6f18e811b7deb5d24c9cddd022535a737
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/agentjit
+Description: Just-In-Time Compiler for AI Agent Trajectories
+ Compiles multi-step LLM workflows into ultra-fast deterministic Python code
+ with zero token cost and sub-millisecond execution.
+
+Package: python3-agentjit
+Source: python-agentjit
 Version: 0.1.4-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
