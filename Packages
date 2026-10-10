@@ -277,13 +277,13 @@ Source: python-nanorecall
 Version: 0.1.7-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 105
+Installed-Size: 155
 Depends: python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanorecall_0.1.7-1_all.deb
-Size: 33308
-MD5sum: 1b10ac316afea394391409b97c6dc10d
-SHA1: f62ac671e1075772588a3117d7d170d67eda699c
-SHA256: e3d1b8f5fba3a0255163c2749e630b03f2316d7df72d7fb66482a8409908efb8
+Size: 34968
+MD5sum: 2b5edfe1502d1ee9629de7ceaca0c365
+SHA1: 3fb31fb61073757520ab5e4956cfd9b84049e570
+SHA256: edb7a6e8b8cea0a609d04d109f62c2b82c8b72eb5dffc1994c515d28ce4e413f
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanorecall
