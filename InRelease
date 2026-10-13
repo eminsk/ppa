@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Mon, 12 Oct 2026 03:43:55 +0000
+Date: Tue, 13 Oct 2026 04:56:15 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
  124f8a532dbe0a2235a2508d3fc53636            19553 Packages
- 93be286dede45b23612d9e83988ec9bb             4129 Packages.gz
- 0851ee5e48ceea4b4a5456251ef87e51              212 Release
+ 33153562368b0b10d908040f917f341b             4129 Packages.gz
+ 8ffc772fb59a671f578eed49b7eb9215              212 Release
 SHA1:
  f2a1ef1326710aa7eb35fda1b3db5221cfde0c8f            19553 Packages
- e7fbf28f8f44e5eb511518ecf27978b46b362e4a             4129 Packages.gz
- 3af6f9aefaed2ce2e2822673b95f67dba0b0099b              212 Release
+ f76219237bef7739c515ee3b19bd81948e51e317             4129 Packages.gz
+ f70ea426d051c610cd1f97770131f0099e974c74              212 Release
 SHA256:
  4949dbcfb7c76d21e8474d7a71ac155c7658fae67c4371f8525cd76c547ad688            19553 Packages
- d98f32b1cd210948990fac2a8a74ffee005df135aec7747985c475147f8ef29d             4129 Packages.gz
- 3d686ecd05767df223d898e18d4dcf17748360fa201978b52e3528e7e1842a27              212 Release
+ 597ecb8ca807348934489ebfe5a1f21e2ede9baefdad0c942ad2d1f1d0e1bd4b             4129 Packages.gz
+ 475510fc8fd610e2ecb8e4e543df4a761ab9e6b6018f62daf00c90b33e43d53a              212 Release
 SHA512:
  8d717bbc1ca467973c25df1084d0373d66998b66cd90025eff052b72323907b2af2be43f953591bbf256b0789f23f32dd00b0a29938145211aa0b401f1ecd1a3            19553 Packages
- 0b7a3950d42a928eea6429d8b66e460338ee2a5bfd182752d384fb1c633a359dd10bc02e34da5def8b704add675afcc04e7b7860c5c165130a9dccab4c0534d0             4129 Packages.gz
- bd1c39fb6e681fe3ea423ed42b6f717256c4c801eb7ac30cd1e91f39eeb390bbbaae79f972ba272c53a8677b1a96b4577173fb86f6e5efe29bd7c9592d316ca4              212 Release
+ 9f1347edf0923ab56d50b96bbeeb009293d5085f4748a4884dccb959edad7709c10bc9601f5771ee6157391fdc2c5b7b4abeaa1ad63f6f37c456e7a30700b45b             4129 Packages.gz
+ 08e8b6fea45eba41214342f07f40ca85d95d0b8f54920e581d323350db13c865ab8f8ae02d987e5b97cb533bee1372c0c59d2953261f5702852f6e80299e107c              212 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmrMV3sACgkQqLL6JDEy
-CGBKyw//aWLv+OI2E3NoWfkPi2IbLEsEj7SUB8/4vKd0VnOxqA6rsflE2CELeXBN
-PrGv3FpxqG4BHZ03EouuEZlQtEpfaY0u5my3AQLLzBqaMgN4OA+Z0n3rlzFYVFnV
-d6mZL1cePhpv3K32KTaJn/zBXGVgtTiRfpBgEn0wVGMSm0Nx+ti9lSXU4mz2lc8o
-y+lmZ/Q+kHMWmPqnJPwxmQctKlav09TiAYcG0Is78G5nR4oByZUNPSJcufYM5USi
-LhmfOvgEBwL7WUXcN6/1qOEAI97/tpBYVYQgYQ5v/NO5TdC71cK4bBtAUr95AwhW
-84KTFtdEVRronMZPjEs+4HACG1f8pQMftCxq4ZEbQ9vofoOJqhbr83vsYxX9av3k
-L0hO2Nli8HzF0jCIqXly+0BgJfqUW2gKTvx9OVzWeK8rssCRFBRZpOizW4P1JfI0
-0drJkJrObZzs6PAV1sLncNNvPgsA9T6HR0V/3ichXwAyZxi2ePIW29gpa7T2J905
-Is5xAkZN9hOLJq9SiKS+U3zx4oEXPe3B8dybBGq+6VULzTfLDtPo6Hw2KddUOGRT
-QCkmzmvq8j0uZtJxsDzxSneTnMqSrfiGnFgt15eOWVk6Y4kf5CTZCu5EemHr3jWD
-TyG9fDXD/TTC5k4t+p9AEW9FvqsQFuFt+Nf+CVke51F+8ihbk3E=
-=GywC
+iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmrNue8ACgkQqLL6JDEy
+CGB6Gw//avIzQs5Yhyy7W0fsU8/v4T6cFH0P3iUJYT9BWun0MnDgVbhZnH6eLHpK
+L0SjjRNyZSoiOalvTlkKOnAEwxuyUCVLTP6KLj5tvRLnnQq2+a1sVBcdTAIcabVB
+JlY94F6rdgh9ln5lt6oCyVEdBQGfWhtFIT9huX5JHIxHr4TPGrE52OT77nx/QX2o
+CH3AKSgSnsDwOZjp071da8IN2EtNWCA/Wpnpe+e8sEu/8h/mTWfzkf6faYk7OUJs
+8ogvbwwBqan62zmbvVmg8jz66fGcXKXJ5QdNAYuNLObGInSYU03auF5mLLOWLPf7
+p+KlpTzJFh/zWuDl7ntOEtEuIWvhEEYIc3kEAuNhx/0CwFhkQ4j4ix96S5dnW+UW
+BqA202EOJyYO1pr218tQLDGgOF86Yb+C2QyRgbcupvjCQjBCIlytLK2wmFv3zNHb
+Rog2XyC5Ck8bAARWyhFtVFy3s/pjmYVQOPycRLy16FMcNFN6cApJ/0KG4GCLeStQ
+XirgZ0PEnnlQnjP4oqrvoLC+wjnQnHi3wHbewzf4jAiuU6ziYECYkR4iV8Zt3Mah
+wpSJzUb1uDh1wVKq4wszNnur4A4KHdRZz3NDx27NaHGqXeudHlAIffegzVB92H29
+nAu/HWngif3VPoPIZbt7pkZoqatU/UqG5QP96mlF0GYmNZ+sDNw=
+=DoJ6
 -----END PGP SIGNATURE-----
