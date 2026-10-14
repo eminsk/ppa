@@ -486,3 +486,23 @@ Description: Institutional-grade market candlestick pattern scanner
  Institutional-grade market candlestick pattern scanner with multi-asset
  backtesting, AI confluence scoring, and LLM market intelligence.
 
+Package: python3-yfinance-ta-patterns
+Source: yfinance-ta-patterns
+Version: 0.3.60-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 488
+Depends: python3-rich, python3-typing-extensions | python3-supported-min (>= 3.11), python3-tz, python3:any, python3-pandas, python3-numpy
+Suggests: python3-yfinance
+Filename: ./python3-yfinance-ta-patterns_0.3.60-1_all.deb
+Size: 91240
+MD5sum: f4dbead7db08dc8d72b0076a2c846f14
+SHA1: 95cdc5a6e92be97d9510e233d7e9e722e3b34e7e
+SHA256: a9fb0249bfa8791eafd025415389dccd4ae89189ac51c6d8f66fd3da6046f725
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/yfinance-ta-patterns
+Description: Institutional-grade market candlestick pattern scanner
+ Institutional-grade market candlestick pattern scanner with multi-asset
+ backtesting, AI confluence scoring, and LLM market intelligence.
+
