@@ -161,14 +161,35 @@ Source: python-avito-sdk
 Version: 0.1.5-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 210
+Installed-Size: 261
 Depends: python3-bs4, python3-requests, python3-tomli | python3-supported-min (>= 3.11), python3:any
 Recommends: python3-openpyxl, python3-httpx
 Filename: ./python3-avito-sdk_0.1.5-1_all.deb
-Size: 41730
-MD5sum: 96196759da4c92bd1e272560030b89d6
-SHA1: c17ca2682a73c05e27b72ff4d55ae87d36011fc5
-SHA256: efa15ae85bf9615cbe4901125dd37679638b0720fee0c619ba0bb29c281b2731
+Size: 51662
+MD5sum: ae884b5fe97bf9d4416c32a1aaa9c7d7
+SHA1: 28b117f5dd8b490edb43ec86aa83d6f1add455bd
+SHA256: b7079c8f6ba6839b8e668fafafbbf7ed035984ed37b452ee149e3edc7849b571
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/avito-sdk
+Description: Autonomous Avito scraping & data extraction SDK
+ High-performance headless Avito scraping and data extraction SDK
+ with price tracking, parameters parsing, and async support. Includes
+ CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
+
+Package: python3-avito-sdk
+Source: python-avito-sdk
+Version: 0.2.0-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 262
+Depends: python3-bs4, python3-requests, python3-tomli | python3-supported-min (>= 3.11), python3:any
+Recommends: python3-openpyxl, python3-httpx
+Filename: ./python3-avito-sdk_0.2.0-1_all.deb
+Size: 51906
+MD5sum: 4bf1f738d19144831cfa536b1aa48a08
+SHA1: 657243f1ebffebd4342a7b30855124fe9b89eb42
+SHA256: ebce3a85eba9a7c2a566f307f929ebe2a43997704deaaf31c1aee57cc907664b
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/avito-sdk
