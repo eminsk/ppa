@@ -198,6 +198,27 @@ Description: Autonomous Avito scraping & data extraction SDK
  with price tracking, parameters parsing, and async support. Includes
  CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
 
+Package: python3-avito-sdk
+Source: python-avito-sdk
+Version: 0.3.0-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 297
+Depends: python3-bs4, python3-requests, python3-tomli | python3-supported-min (>= 3.11), python3:any
+Recommends: python3-openpyxl, python3-httpx
+Filename: ./python3-avito-sdk_0.3.0-1_all.deb
+Size: 58002
+MD5sum: 450a41f108dcfb3f07a228f84ce38d5f
+SHA1: a23d17514cd3fa2cfe4cee0d0ee16aa9a52c2651
+SHA256: 233634f65de8c85e227ce5dac2859b354f8311f6d224fcecb453e4a0c3e9f011
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/avito-sdk
+Description: Autonomous Avito scraping & data extraction SDK
+ High-performance headless Avito scraping and data extraction SDK
+ with price tracking, parameters parsing, and async support. Includes
+ CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
+
 Package: python3-nanogemm
 Source: python-nanogemm
 Version: 0.3.6-1
@@ -393,13 +414,13 @@ Source: python-xlsx-viewer-pro
 Version: 1.1.0-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 508
-Depends: python3-openpyxl, python3-typing-extensions | python3-supported-min (>= 3.10), python3:any
+Installed-Size: 604
+Depends: python3-openpyxl, python3-typing-extensions | python3-supported-min (>= 3.10), python3-xlrd, python3-xlwt, python3:any
 Filename: ./python3-xlsx-viewer-pro_1.1.0-1_all.deb
-Size: 84554
-MD5sum: a3402ffd0009f70324d8c64ae09090e8
-SHA1: 6d0b8d94ff896fd780eb507540ccb458496caeb7
-SHA256: b589c02269a52d8470665c282767b35be11a4f75ba3055000810d7b120388168
+Size: 99896
+MD5sum: 23ad7343e3f7e3b35067ce5c6721828a
+SHA1: 98db5205a7d4389f5cbcc86cb78befedc0619a84
+SHA256: 514d4d8d65ba5e336a7d2432a791403fb194712747c770cd1a29e40cefdb1e11
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/xlsx_vievers
