@@ -203,14 +203,14 @@ Source: python-avito-sdk
 Version: 0.3.0-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 297
-Depends: python3-bs4, python3-requests, python3-tomli | python3-supported-min (>= 3.11), python3:any
-Recommends: python3-openpyxl, python3-httpx
+Installed-Size: 315
+Depends: python3-bs4, python3-openpyxl, python3-requests, python3-tomli | python3-supported-min (>= 3.11), python3:any
+Recommends: python3-httpx
 Filename: ./python3-avito-sdk_0.3.0-1_all.deb
-Size: 58002
-MD5sum: 450a41f108dcfb3f07a228f84ce38d5f
-SHA1: a23d17514cd3fa2cfe4cee0d0ee16aa9a52c2651
-SHA256: 233634f65de8c85e227ce5dac2859b354f8311f6d224fcecb453e4a0c3e9f011
+Size: 61514
+MD5sum: 7553c04c5c3cbba30284c15d20a6460c
+SHA1: 3e9fd1018e1a32ba77bf42a53c8bcacf0f3410de
+SHA256: 79c1c86fdb77dc651703e17296e8df696c6d000f2762fa00d0a73bdb5f8bd3ba
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/avito-sdk
