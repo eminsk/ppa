@@ -243,13 +243,13 @@ Source: python-nanogemm
 Version: 0.3.8-1
 Architecture: amd64
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 143
+Installed-Size: 150
 Depends: libc6 (>= 2.4), python3 (<< 3.13), python3 (>= 3.12~), python3-typing-extensions | python3-supported-min (>= 3.10), python3:any, python3-numpy
 Filename: ./python3-nanogemm_0.3.8-1_amd64.deb
-Size: 38294
-MD5sum: 0c9a7c22fce1c4b6a329b897f80e1712
-SHA1: 13ef1500d06a57eb7ac5a238cfe4a018ce5d5a6e
-SHA256: c757236dc9012d06b958ba94bd2f165332edfb5d76f2c2ad29e338396169be9c
+Size: 39878
+MD5sum: 8ae4761140e15eec7c95938fb817c763
+SHA1: d8a034d65b2f38b253e01f84f721f244abc6451b
+SHA256: 2e7c48ec6400f5f1c8e0f9d31952de66f8cc3af6083d1ae76ba8b44717a61ac8
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/nanogemm
@@ -541,6 +541,26 @@ Size: 91240
 MD5sum: f4dbead7db08dc8d72b0076a2c846f14
 SHA1: 95cdc5a6e92be97d9510e233d7e9e722e3b34e7e
 SHA256: a9fb0249bfa8791eafd025415389dccd4ae89189ac51c6d8f66fd3da6046f725
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/yfinance-ta-patterns
+Description: Institutional-grade market candlestick pattern scanner
+ Institutional-grade market candlestick pattern scanner with multi-asset
+ backtesting, AI confluence scoring, and LLM market intelligence.
+
+Package: python3-yfinance-ta-patterns
+Source: yfinance-ta-patterns
+Version: 0.3.64-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 514
+Depends: python3-rich, python3-typing-extensions | python3-supported-min (>= 3.11), python3-tz, python3:any, python3-pandas, python3-numpy
+Suggests: python3-yfinance
+Filename: ./python3-yfinance-ta-patterns_0.3.64-1_all.deb
+Size: 97282
+MD5sum: 581c2e1a0ccacd59c73b2b96f3842b89
+SHA1: 64d27e6ffcbb045ced38d68cf851bed2e27ff8e0
+SHA256: 0ba0d5b314d21ac97fa36124f1df6682f4df83bf8712319c94f95b34936a88f5
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/yfinance-ta-patterns
