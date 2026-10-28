@@ -1,24 +1,24 @@
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Tue, 27 Oct 2026 03:14:58 +0000
+Date: Wed, 28 Oct 2026 03:29:29 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
  c55e1859ffcabb59460411bcf021d46c            26389 Packages
- a3899f86b61ce664577479409bd6d0a9             5052 Packages.gz
- 9959cb34257148ad833a6bc723324942              212 Release
+ bf87fd5618fdd5b974b4923e3dbf470d             5052 Packages.gz
+ 72dfcda8f8b3511c764133fa3e728b39              212 Release
 SHA1:
  30fda471abd3cc55fe8a30a2cc63db43d7680ba4            26389 Packages
- ba1dfd3beead7415db3224936830376518225041             5052 Packages.gz
- 2a15ebea53c62cc48795ae33081517988b262594              212 Release
+ c48929360ef86e12db5495b2ca3c6c1dd3ecd657             5052 Packages.gz
+ 5d10d3b53243c97e456163bd7bf35d5911a2da1d              212 Release
 SHA256:
  d7f3ea36dba529d98e07a50d64c53b217badd38f4cc902d7f66441172d3eb378            26389 Packages
- 2e90cd72b8387294fb119c935ed53eaeb75925503494c3685a19f9101dd1568e             5052 Packages.gz
- 93172a14822ba87bc0e31a1a1c1433fe253cd300ae554700098e5d2a60c48d9d              212 Release
+ facad6d74cd58319bca0fa4f0b1ee919e8907ce98d6221678c3a5dbacd97a706             5052 Packages.gz
+ f90735c2e2e9b0311d9a682d00a7290b251c692d0dbc199653d318712c7b3a58              212 Release
 SHA512:
  147bb8d85f45658bc5d783a0ccad2c525b0da43debde9a784abe73244965f0d771fed4b45f3351231b11346a1b72902a28f463007ae83003e2859273b2f2a257            26389 Packages
- 40014daecc5b369caafba510fbb3c34f274f0285d5bd73a3d6bf53218736c81769989eea4832467a13c48fc9d661c2c3698b91ee4f83bdbb0f0bc094ac78dc43             5052 Packages.gz
- b53029d3e03585c2d400837630258ab6fda0aac15ea82ab99bb34c62c653e64e0173a6601a8c00fb15ab8037f4f8bb8e71d9e429d46b149e18792eab51643477              212 Release
+ b71a549b63524da56e64dd3a6ac0b6398db50e723b612f8201c845321fa8de8307130cf4194303637207e7684c89f8258fcf217479a75d62b1583a4cf1efc119             5052 Packages.gz
+ 20077dc6b9f17a5816acd6aed62e7ba530e517ca3e837f895573cd5bfc61e108c2ea785048a252c9f5f7616dc7da6f4ff95151b7ccafdb28b0197f9db8b31341              212 Release
