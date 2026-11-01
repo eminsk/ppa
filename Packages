@@ -390,6 +390,26 @@ Description: Minimalist SIMD-accelerated vector search and episodic memory engin
  The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
  Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
 
+Package: python3-pyfasm
+Version: 0.1.0-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 116
+Depends: python3:any
+Filename: ./python3-pyfasm_0.1.0-1_all.deb
+Size: 21594
+MD5sum: ae570bdf1f1826a91b86c44459768e4d
+SHA1: 51bb3b566df68ef5952e340d9a7f5aa977220122
+SHA256: 9d08c1774064df583934660b74172bcee18a4239bfbb02d3413bbdcf1816f971
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/pyfasm
+Description: Universal No-GIL & PyPy to pure FASM x64 native compiler
+ PyFASM is a native cross-platform compiler translating Python (3.8-3.16,
+ No-GIL 3.13t-3.16t, PyPy 3.8-3.12) directly to pure x86_64 Flat Assembler
+ with true hardware multithreading for Linux ELF, Apple macOS, Windows PE64,
+ DLL and MyOS 10.
+
 Package: python3-xlsx-viewer-pro
 Source: python-xlsx-viewer-pro
 Version: 1.0.7-1
