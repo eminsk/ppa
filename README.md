@@ -4,7 +4,7 @@ Official APT repository hosting native Debian/Ubuntu `.deb` packages for librari
 
 ---
 
-## ⚡ 1-Line Quickstart
+## вљЎ 1-Line Quickstart
 
 Run this single command on any Ubuntu (20.04, 22.04, 24.04+) or Debian (11, 12, 13+) system:
 
@@ -23,6 +23,7 @@ sudo apt install python3-nanorecall
 sudo apt install python3-nanovector
 sudo apt install python3-xlsx-viewer-pro
 sudo apt install python3-yfinance-ta-patterns
+sudo apt install python3-pyfasm
 
 # Or install all in a single command
 sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nanorecall python3-nanovector python3-xlsx-viewer-pro python3-yfinance-ta-patterns
@@ -30,7 +31,7 @@ sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nan
 
 ---
 
-## 📦 Packages in this PPA
+## рџ“¦ Packages in this PPA
 
 | Package | Upstream Repository | Description |
 |---|---|---|
@@ -44,7 +45,7 @@ sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nan
 
 ---
 
-## 🛠 Manual Configuration (Without script)
+## рџ›  Manual Configuration (Without script)
 
 ```bash
 # 1. Download and trust the GPG key
