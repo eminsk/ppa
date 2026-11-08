@@ -1,25 +1,3 @@
-Package: python3-pureapk
-Source: python-pureapk
-Version: 0.1.1-1
-Architecture: all
-Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 228
-Depends: python3:any
-Filename: ./python3-pureapk_0.1.1-1_all.deb
-Size: 233769
-MD5sum: 0f1c8b84f8be6efdd694fddcf1563e1b
-SHA1: 11306507fb0fc6d95860b2653a04186a0cf2531b
-SHA256: 981c1d073807eb59453268b6a775b81706b32728f27d853176b7e912cb912b0f
-Section: python
-Priority: optional
-Homepage: https://github.com/eminsk/pyapk
-Description: Pure Python Android APK Engine, Multi-Store Packager & Toolchain
- Ultra-fast zero-dependency Android APK engine, decoder, and multi-store packager
- written in pure Python. Provides zero-copy memoryview parsing for binary
- AndroidManifest.xml and DEX headers, with first-class scaffolding and packaging
- toolchains for Kivy, Pygame, Flet, BeeWare (Toga), Ren'Py, and WebView apps,
- plus store bundles for Google Play (.aab), Apple (.ipa), and Windows Store (.msix).
-
 Package: python3-agentjit
 Source: python-agentjit
 Version: 0.1.10-1
@@ -411,6 +389,28 @@ Homepage: https://github.com/eminsk/nanovector
 Description: Minimalist SIMD-accelerated vector search and episodic memory engine
  The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
  Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
+
+Package: python3-pureapk
+Source: python-pureapk
+Version: 1.0.0-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 214
+Depends: python3:any
+Filename: ./python3-pureapk_1.0.0-1_all.deb
+Size: 42352
+MD5sum: 9d771e5960d8291b658e77ae228777e6
+SHA1: 80cb56f6edf764e1e5ca7b26fc35bca70e519941
+SHA256: 4120033b51665024a3be223d60c2753c434649d0df3899b17a22eb6a21fdf1db
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/pyapk
+Description: Pure Python Android APK Engine, Multi-Store Packager & Toolchain
+ Ultra-fast zero-dependency Android APK engine, decoder, and multi-store packager
+ written in pure Python. Provides zero-copy memoryview parsing for binary
+ AndroidManifest.xml and DEX headers, with first-class scaffolding and packaging
+ toolchains for Kivy, Pygame, Flet, BeeWare (Toga), Ren'Py, and WebView apps,
+ plus store bundles for Google Play (.aab), Apple (.ipa), and Windows Store (.msix).
 
 Package: python3-pyfasm
 Version: 0.1.0-1
