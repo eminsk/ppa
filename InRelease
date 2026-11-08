@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Sat, 07 Nov 2026 04:03:57 +0000
+Date: Sun, 08 Nov 2026 03:49:00 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
- 78a882e0223c1389472d4be9d6fdfe31            28998 Packages
- eeeb4e9e254404cfdec09f2e8f0c4901             5680 Packages.gz
- 7e35d35f34957bb58ac943f2368f1321              212 Release
+ 3dfa129ded7b2f98ec729b10e168c24b            28998 Packages
+ 0fe900eccd74db71a230b5aeff9095af             5680 Packages.gz
+ f37303f8af2090be4ee350416befd330              212 Release
 SHA1:
- 23c058bc367c0050366c84be4391a4a9221e2ff6            28998 Packages
- 5d02b738da319ccc19354fe7d2b5a19aba7e5d91             5680 Packages.gz
- 67ba124d5f638bf705fcb2114343054bf149ecb8              212 Release
+ 6b4569290b9b4d23e88e765a6118a185ca8e1834            28998 Packages
+ 38fe05b205852872e3401f20cb5b4a83dfa684fe             5680 Packages.gz
+ 8b0da4cba35ed69af972bc1899986a6dd8202faf              212 Release
 SHA256:
- 296703c8050f37725e8142e16923c6bdad4ff5902e48898aa089975f493be161            28998 Packages
- 852bad13ffb84fa673a9a019e49bd4ae576512101d6e16db18d80538e1e229f5             5680 Packages.gz
- 89c9b684506fcf88388fca32f50aca7e9f3d56f2f309e3b754c7198652a6642a              212 Release
+ 31b6a608c0de02b18827b767e551fa07d743d09fbb55e771b0acd5e4fac91851            28998 Packages
+ b7aa9a4cf0e8ac5052563b900cf1ceeeaa88fce8716ae8bf916dd2a4b2614060             5680 Packages.gz
+ 60f2d4405d4bcffc80b903c1bd9d00192a34718b7b01b1cb8e695791bbd1fa19              212 Release
 SHA512:
- a4b38cbe26f4cea89720121706c147c62344206ffa71ee3a640897f7ceb6704c2b22771a2878e5c7f2b45f5ce45d4569f5a22f9627208985b51156ca94323d68            28998 Packages
- 83ba0221a89ab3d9202e83b036b731c01db49e34d33d5a29331cfab971792dc6fb2db5afeab7c2e810093b65d7b06edeb0276b08fad5fd0db8835f4698637144             5680 Packages.gz
- 2253fd6c07e03bf5ac092d1ebb9a2930b39a9546b4e8b828b10d8f4d6c08cc9a3ddd9fbf1b6e365266df87727884a523c05facf58e19ddcf7bc82f94781bb3ee              212 Release
+ a451f8127dc77bc5da665b8dc05a9c39477ccb7db2ccad9a1ea2b8b013a11da045e47d3275fc7396cae01f31539c577271de0c8442cd561e6e36b60e12ec5b6e            28998 Packages
+ 1cc43760d10d4991cd812d8a2a3a4978c3cc57d29b67ebd7ccc824fe0d402c3aa45774db47aecf131b0509ea636b32e261f1c89096612ffbb6ae259538df46c4             5680 Packages.gz
+ 5c3ed671da662cf6b6d632fd59d587fe642481b031f365f980669c8f4c3c9841fb285644dee31cd2a86d0cb7679f7962b039d722c00da4452a48267e8ec2e36e              212 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmruoy0ACgkQqLL6JDEy
-CGDWkQ/+PIUcYQ947gY32IjbGn1cAY9NWqxjN56rSVJ6gRNDi/28Kytt6yuaFxiu
-inrIyYxmraq63Kbg5le3q5Lz313IYLOQZ4sob5lwia/PNshc2faOYGHy5kYiIGBP
-S1GqFwXzO2dLmcR0xzBXn3/wYHU3d2cOKZokpaSon6wOJ8XNfc7TDFSOYCqHe6cp
-LNU/hHgLWIi1mTlSRMh6o1fQzBJDZlby8sPs8+96dxy6Akt8VC8STNJiWTjC26XM
-27jnbUBPgxQw84ds1TKYpJyEyRT0mk/HRtL+3BXswOP4ZmUwfKjkX4xqGMKqWf7j
-VpQVXzVeNy4+ox6BGva5DxwC4ed+6wrjtKxL8ee7+FRmTY8W4T35yRbUhYFrl2DF
-T+1RTrl41KREumHPKxTf5N/4sntDg+AC3c1NEhyqEAvAI+cgmT/CJht25hBQf9yP
-15KQT8zg1K9+ayX1pFreWuhHB2OsZyyNgUxz0/adPifysqg8Dyt/tXFjN7hvAbXl
-LpBuKerzjvQdjWfzIVbkmyLeHXrCNR0P/I1b5vDyWa2h1NYclz9LFjkka9K076qm
-J7vgRsEAtQ9lRVVp5jZm1+e8/TdTAHygXynYHny0KAGCrhTcdnCOakKjoAX6jTee
-gZwv/29Ee+hgDkh7oqbrjSW6/oDnFkeD4JMUX7Xqswo0hdFmGfk=
-=KbNt
+iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmrv8SwACgkQqLL6JDEy
+CGBjmA//YR29Y5kwQdF0z77+I+b+UzMV+12S+MOfaaSxaSmPfuinUZQFjQrFDnu6
+QRweAOuTGBPt/Jk8auNfZRUnBLH1l4jNNBKYV4vGdx731xkYRXzwlnOC2zUKcwWs
+Ng1JkuI7HTNGADxxqi2tDPig4vudcNLdpCgTCBjrIFzYMQRZxiWfN0ESTorCdnih
+s/+deoQelv7V8gL+QOsZrEZz6/E7YZQK2VOloiurfT7/vJPKnhr5Tc8nXHhiX1o/
+9CLL1ibK3hzQBTTrW/If7tvu8fctpU4Xc3w+7Q6YI8Z/6XY6t+fy7VjlR+z5Lj/g
+mltrOnmt7ivnQ0f7ZvXVxL8wSYCW+ZIuUl/NzyTxuDWrTgwdEs/VcfFkctse8Tvu
+GSzlgQrrxHlgSXhVjXdnafkySSqC/7MNXjhtEe5ch39Q3dWMNb6F28SqPn45QGw/
+wWA7tCDz9pDRRTYPhZJkqK2NO88KwFNZg7wF86U6gXmrQHhCL8YJ8vi14tQo07t6
+dcjdyfNrQ53xpvPmdw/hwBGKJMIwFAAZuEHC1H6vizRkQ884WwYh9404W3CM7A3A
+cOJptAGc4yM4hdlBvOAWgcLDOdExw2lFX/NG77m7RfSdCw9/N4XxcLOAMLm7VaAl
+p+QKvu720p1ElgWNYNb/quu6iJJVeVsQ36gtiGLNZhO7F13KURM=
+=59E9
 -----END PGP SIGNATURE-----

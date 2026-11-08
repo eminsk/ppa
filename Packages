@@ -437,16 +437,16 @@ Package: python3-pyfasm64
 Version: 0.1.14-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 3278
+Installed-Size: 4586
 Depends: python3:any
 Conflicts: python3-pyfasm (<< 0.1.1)
 Replaces: python3-pyfasm (<< 0.1.1)
 Provides: python3-pyfasm (= 0.1.14-1)
 Filename: ./python3-pyfasm64_0.1.14-1_all.deb
-Size: 409724
-MD5sum: 41bd4c7d2ebb353324ea5609be6fe6d1
-SHA1: dfba7c92b03f867d10ee310bfc96650bb4b555ee
-SHA256: 2b1e3e2ba10b44a01902eda9992cc666e2ba2edd11474e2416a19d1c3340b561
+Size: 595222
+MD5sum: 361802b7731ab2594795a637044deef3
+SHA1: 84f2a23af62da444308eded93a12dfd5e9319b05
+SHA256: 4c5a35de5058e8499d4fcb40028c2b04d4defc0a4277d59c3c48161c33527af0
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/pyfasm
