@@ -412,6 +412,28 @@ Description: Pure Python Android APK Engine, Multi-Store Packager & Toolchain
  toolchains for Kivy, Pygame, Flet, BeeWare (Toga), Ren'Py, and WebView apps,
  plus store bundles for Google Play (.aab), Apple (.ipa), and Windows Store (.msix).
 
+Package: python3-pureapk
+Source: python-pureapk
+Version: 1.0.1-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 216
+Depends: python3:any
+Filename: ./python3-pureapk_1.0.1-1_all.deb
+Size: 43018
+MD5sum: 9349b206b067b4e7ca60a2487eadd70a
+SHA1: a62ca9d068963ae739795ce432dbea45831afd58
+SHA256: c88580485fffd01b8c0328682495f7b1a8c6c7a4654868871edf4e5d71a2ed65
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/pyapk
+Description: Pure Python Android APK Engine, Multi-Store Packager & Toolchain
+ Ultra-fast zero-dependency Android APK engine, decoder, and multi-store packager
+ written in pure Python. Provides zero-copy memoryview parsing for binary
+ AndroidManifest.xml and DEX headers, with first-class scaffolding and packaging
+ toolchains for Kivy, Pygame, Flet, BeeWare (Toga), Ren'Py, and WebView apps,
+ plus store bundles for Google Play (.aab), Apple (.ipa), and Windows Store (.msix).
+
 Package: python3-pyfasm
 Version: 0.1.0-1
 Architecture: all
