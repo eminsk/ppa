@@ -420,10 +420,10 @@ Maintainer: eminsk <M_N_N@tut.by>
 Installed-Size: 216
 Depends: python3:any
 Filename: ./python3-pureapk_1.0.1-1_all.deb
-Size: 43018
-MD5sum: 9349b206b067b4e7ca60a2487eadd70a
-SHA1: a62ca9d068963ae739795ce432dbea45831afd58
-SHA256: c88580485fffd01b8c0328682495f7b1a8c6c7a4654868871edf4e5d71a2ed65
+Size: 43066
+MD5sum: c469c749f52194e03e6938ee93c9774e
+SHA1: eca275b2aef2969c28eac3dfc6d096a8621e5528
+SHA256: 0202caaada77507e27b70fd549f6049d633612fa22dcdc35c42df39961aaea35
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/pyapk
