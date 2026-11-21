@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Fri, 20 Nov 2026 05:14:16 +0000
+Date: Sat, 21 Nov 2026 05:07:12 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
- f767f3e72d47e83678e9a107b9718b50            31619 Packages
- 40bb21e2bc47ccb6119a962cf65f9c5c             6334 Packages.gz
- e5dd2791ca37a2ad57f5b4acfcab9604              212 Release
+ 3c13551a19e954da597fe92c29202ae9            32543 Packages
+ 715d6868c76ca1dca10856493b398332             6468 Packages.gz
+ 657e8273dff7a502ee9f9d09a7ec38bb              212 Release
 SHA1:
- 2d13740b508841927b62adeac5b2a3af163aa599            31619 Packages
- 7e507b799ca1b97faf5cbb2d33696aac7e4a7864             6334 Packages.gz
- f3b65ab14a7f8611f6d9e9f08ec97ea396d27cec              212 Release
+ 2d0c611767fa2849764684120cad7f61ce3c2fd6            32543 Packages
+ 5e162f6762d9618c5d7e1ffe9b792b497cea883f             6468 Packages.gz
+ 5e7a3ddd66713d161eca9a69bda2c8d8b6acd520              212 Release
 SHA256:
- b155092ae2ba6a7aeaa97b40b2769138b35ead19fdc67f6cd57be5aa6866c23c            31619 Packages
- 17ed8255fcd1350800decb767e4f9672985272a148b7ed5e228f9a9f9bc3e9e7             6334 Packages.gz
- c060d5a492901255a8f3b964962b4192daf871c5f15b11db6b9d51f7793898cb              212 Release
+ 46a0a6fb657364d49a4d63c0b70519b458ce4684b73456d5fabf10ea9516fa07            32543 Packages
+ 31a18ba99260cfb73d54001f9939f3292678e7e111a8b0240bbb050d37d909b3             6468 Packages.gz
+ 2d11ed67c3f1eb8f6d92e4fc04ef11b7548d080aa1f10e138f01f0a3e42c27c7              212 Release
 SHA512:
- aefb8254f800e144df4396365b51d156815ebb821ba0c9c2e4becb7079fe88c143c59dfcc0f231285d9c1ca675fe4bc9e7cf2a03e3d4635db44cc17ee15072bb            31619 Packages
- 271003cb535c1d26d7125a45c7d6c30ec2aacd8f32ed5035c6122d3944028c2176215a5d695b53bf48453fbb5529b4bc7a7c71b1d6737f839fb987c233c71cdb             6334 Packages.gz
- 4096f500e8813fd821f52e63ce32d1178c24a7614b5bdcbcecd2f5428bbfd93c270953a5e4c7ac9191df676c4869bc34b21c584f97435d930a7f60059fc48b2b              212 Release
+ 2a449c5307a8bae6688c4661cbee03f4c097a7e2fa246264fb2beb44cb8ea39920ce686ee2dd6ae3fdd793211e594fd8eada50ea1cf79190febdf92e20a8a5d0            32543 Packages
+ a1683c86674ed3c99d068a9d7ce7748949ab69f9c47283d1b90f4830a84573cbce07859a3d0a2d4a01c094b9c0b1835b53d79373d53ff2a38d4ec535a6d1ba29             6468 Packages.gz
+ 00672941ab331c619ab504dbf6a23084d8229f26c30d6e6a2bac1a0866b4985f2e1e1ab2023259fc2460f4d17b98a0959a893d5e0aa7728d3d51c54089f4ad7c              212 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmr/1ygACgkQqLL6JDEy
-CGA1rhAAgMBemH7G4Eg2HI1kdYQzD3epxb8Ur3G8Wmguay7a4z/comGEvsuUJy5R
-Lk3TWI5+bIudjWxuC4PCOfmpHTsJYoxpxRf3gqWvxm4h1Mh4dKJ0BUlah/BsjsPj
-yRbHHXi8c9zUJZf85kEaWq4kXUHIkqn+leIPfCZTj0aP7uCX/qWf2NHEbjaPOpBD
-Uv44+DqVhHsiT3+O7rVKQuwx9bpTbU8nS59b73phLcOpZXxM7S5tojm5HeHpY/+0
-ktRc6XzOXk9faG8SOiX/wY7W5imiA85eT4WjNIGhADYgmvi50UnMeLy5qvqnMLSd
-xw9iz3JL7d315YgCh2KkvbxAAeWuXV5KLmNuKG1Qcui4JZt9yNrip9NvbRy1gaDu
-kTn/X08YxzSz5oYN31+YHxDhGs+TlGg9JS9ts+K7ymqfOXJNfpX2XG46dyEsv9xn
-XA1lhNcVEmKv8g67VP6BKGdOPp+svZP4QekzHYNzOmrdjXNBXlP7fM1G4XSDNy7I
-bVIA6x4uFJZRMmx6+JQIw8xrjlY6qD1RggSSIeaZEClCF+rg3jYhvzo5HQNj2NIG
-WacIviML+N6jS91esNRSz1RuOjiAZ2dWwxMu45wGiVIm5ByBvTF7ySJ/1y158wr2
-8QCHoXSE9ZTd9F2g6wP8rvqe4S4o6N4uGfOrJ7m0gT7UJHAQcLo=
-=ypWH
+iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmsBJwAACgkQqLL6JDEy
+CGBRjBAAhpp0ALEClRtJgQ5tT4ljy56PtIwnnX3qcjKnGAaH1sGzqHQj+OIPMcau
+5e7P6dYP1SL5eiNyd3xPTDf5EndC7kz0j7dsMwNV0TkJduobiSq/Mlujvz9Tn/ZR
+yFE/aTZZY9hTvlnwImpb42BmJq/1MkZqji/sOEzFWvdYuasO8bDkBo86jRTBFhKH
+r1MtTZJxV6uSDZm7qARBwkP0RVrD6TRp1umy+Jz4okU6KP5JzN4wpCM4Nxv6G0OP
+WDG3qirYgqo09iHHsZTI7E1qyWbFIF63m2uV6Ayex1dGqa3HPKT4kE5QM/q84OAU
+aqOPG7Ij6U6WeuNQEpmUDQg/LcaIiYCgMn2H7bE5UTGwXQI/a4AzawWjxAjckAr0
+8Nxgrv0Jhng4P4ZiPKuRDSOq5n52RL/KWyleZQLnzYh5VMgeOn4tny88JCHl0smv
+YlU5aaCVEDkIF88qA2k5S9boLXVVA790hBOumkcKZEjlzs0kRjKaEMHMY2pRJn7L
+6t7XnxuEF7Wt4qH6TwAw9rRGuyY2bm27KffJCKfSVfAZ+O+rmiPT6z9gjp8slTGD
+mx6+DqHrj8dxVZbJtAW5WuLX9mbez1Nc5WmQ6k3cLS8Sw4tU0KqPhytcU/QpveJm
+MIoG1pBtElu66alUxKikS1jfdMZBWYHsZvtTgKDxeCkjsiXXZec=
+=cXO0
 -----END PGP SIGNATURE-----
