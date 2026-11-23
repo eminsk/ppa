@@ -4,40 +4,40 @@ Hash: SHA512
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Sun, 22 Nov 2026 04:32:10 +0000
+Date: Mon, 23 Nov 2026 05:08:14 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
- 80ee03bbeb8edeaa3275e5fc64e60448            33467 Packages
- d08a95a36ebe23431e0a8f1c72f4a7fc             6585 Packages.gz
- 579be4e705dce1ec5c6cfffe92e8e113              212 Release
+ ea01aa548a224b119bd4bcfb9ade2de9            34391 Packages
+ 3a368b69b52c7cde0f4d8df0cb12062a             6701 Packages.gz
+ 3b46532613ceded31e929c729ff3c471              212 Release
 SHA1:
- 1510968acc0a743c7ba084d9076f644fdadf26ac            33467 Packages
- 11ffe3322ac2d9b0df2b08f8069f8730cb5aa106             6585 Packages.gz
- 28da0c2959a6fe25323c91f6b86935377949015d              212 Release
+ 5af09305c61124a04febcde1c0d9cb915b366d83            34391 Packages
+ 51ed91e0f422c60547b2ad2e8ab38f61171cbc36             6701 Packages.gz
+ d7d3379e4a75dd7a06db88da57f721557586a1fc              212 Release
 SHA256:
- 28cd647fe225fac625ba04817bf59e27d6ff607c1badc0361a44e493efc6a263            33467 Packages
- aec9723d4cfe324a1bf287bbb782a2c6569d43045f37a986cfc1b740c4847b66             6585 Packages.gz
- 8f1782590a93a89ded687f8da26e5eb9a61796770092d44607e9de3d9299b94a              212 Release
+ 61829529817fc15b585c5b2b87817642e5d4a7e37aebf45ce07c42b3106eeb93            34391 Packages
+ 739f30333236eccebceb4fa275c7d09f34915f5082e1a3c4c1439a864a53113b             6701 Packages.gz
+ e8a0992e29e07f50ea5a0f6b1cf97a29364ea2a76f2266a1e3baf691040b55af              212 Release
 SHA512:
- 32279ce1ad2f9e90bb976591a5ad55d71f54bce33a2651a9c1defe4f8f308add885400a7a42aa8a4527f959c012986a42fc4e4fc087bf2e89e1192cf76e26f70            33467 Packages
- 1df7c51edc2c480fff4a1fa6510e4322b1c5af48bf33a91a6876b254408be3290403807961b5e5e39f4953e600dc84f5ace80777bae440afb89938feeca6d2d9             6585 Packages.gz
- 89fd0e1527470fe6fee8f3cfea414469b1b336074ade94c85daebac58bd216c50a65299aadeaa98851a828641e8957891139d87ed8a5d50f725921f5f343f99e              212 Release
+ e0d5c2b2e67548dba4cab42cd828e78125234bc920338d55df0e44e7f9fd09c745d6f7cd7101963c09152d02d72f7f7cdafbdfea0cb2de5772ee0cae5278d36b            34391 Packages
+ 6ad3347557b2da945972db1202b1e3d499e5eaae262831b5be91e94243f1aaed5a3786d661f180c40e5a7e3769dfecef137eb1f4d9b686466992f63be66cfac3             6701 Packages.gz
+ 8f5411fe83950a48508eb666326eda45ee05fabf9cd83b8927f058b1ed853622872a725d8590a9f5b044cea91fa705bedf7504008771b2683755b4551b708659              212 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmsCcEoACgkQqLL6JDEy
-CGC7RA//eC5NdNOweSvv2UEFqZtVb1Wwa5agLEWkpuyo6tqAWG3UMIGAiXQ8asTv
-FWD/Mp2CeJYq93gO4i1uH9Dn9wb7kg5JZT8GyKwMeQg6hLRlisnEE8KDft7ATJCt
-V1y0rvB5v6NUwkNBzikkRTeZj2zil7x0XSc78NahHTgFNEwBiiqAAiiCS6xqSxQm
-keVowhEGbW9S2AHepHffBGEv5hvV+L8QB+e0EXSOr/mquu3Af17yQvC7Zne7P+Km
-hhfJYHSzmRE64nbGiJW91qIrThGw5g+Ef4MapDi9EQiJ25McbmunvLYgs+Ngluht
-lBqyv+6QvBi7zFBEy9WNIrEW81AnuHz5ESiceOISL8udI0HgSl+LEQQ0tLb+FqJj
-ZGBRw2pXuVG3F9Rk4vBwD1mhbckvTPGKyhPRuwY8namOdetkYjJMLq1CCw/YqCHV
-4dcR2VIpFgbsZ7dKhNw5LK+seekevexApnBcIwhf5E2UeILRJeblb8mlq7vjU2Ce
-mPQx9vvNUwAoXVojTHU+5gRi7N8MVfCsAWLAg8dJ9iVGcxruZHkrHu7KpHiOE1Ud
-2Wc1w0WbwhYRJUY2whgYLF5VrdaQ/ycfSWZvYCpBmARPi8OokSf2RjacleQVV9RH
-qWvBlttIYwvW3V8TuOaFW50yA7HbZXz3ouu07jGJeCGYhZIYKGM=
-=m+3/
+iQIzBAEBCgAdFiEEwTf7uA5N6BNdx4YYqLL6JDEyCGAFAmsDyj4ACgkQqLL6JDEy
+CGBlig//ZD5W0YIVPfUaKgza91TKCxlaI9Q1ofUNWKrGL1d5yt9WRcG/VGT6VxjJ
+3rBVvVWWNqmnfjb7TyUpb+cNvtt9GSbgcNsXb/nozrjR58SyWTHvWppRsSY0nIne
+TBHBguVSo3KSQ+u5gFr44dfPWcIM47puIS09NftCOOvD3Y9+Jxi41qYpMXQjmUx3
+fSpJhjbW3vONe3w9trpv0EnyztKGvoZCJEs257h6NZV5pjwk3WOdktIuDztHJU5r
+9aIyZCJbFQBW3xx1HsTpYqLZNqh7CgX2OCxVjS0ZEAuQK1GbDsqK8WoYT/VingKB
+6WtgC+jgaIuMzz2v1g69U+dq+UjZF+oQo/0FX9KdDTWBb//8kV5RHBSJgGn9sKTf
+1ApthzzusdjNAqNB8kj//d7H2piDII1OGp7Pw6H6TeZdnIB8XN1Kq+JVpO8BHpi1
+ID2rl8jyxxyIQVIC84W1QHphcxg9MxbQ+5hqxJMfZITeQ/MwiR1fJk6fN0xSxHws
+4AEg4ITLKWB+uksDeFfxA5K0YmItTYIh2YD7xZXtHuZ4KQb97vkZ/z9z9qJ2r9Ni
+x+S+f5KT6a/Ww5OawIQHQKgL2Z9sJ7+GOuMSoiSTsEbZgUV1oFfDXTukePh8pWLQ
+w+/ZHypPtaULQedEtcMuie4qHfGsgZ5wGtzn7gqlt4fG7E/D+IU=
+=d/Al
 -----END PGP SIGNATURE-----
