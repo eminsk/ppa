@@ -569,6 +569,29 @@ Description: Universal No-GIL & PyPy to pure FASM x64 native compiler
  with true hardware multithreading for Linux ELF, Apple macOS, Windows PE64,
  DLL and bare-metal flat binaries. Fully backward compatible with legacy pyfasm.
 
+Package: python3-pyfasm64
+Version: 2.3.6-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 6048
+Depends: python3:any
+Conflicts: python3-pyfasm (<< 0.1.1)
+Replaces: python3-pyfasm (<< 0.1.1)
+Provides: python3-pyfasm (= 2.3.6-1)
+Filename: ./python3-pyfasm64_2.3.6-1_all.deb
+Size: 761744
+MD5sum: bd0cdcf82bbe8883b4c8a7734a16d94d
+SHA1: 4f584c720811c67e829a89858fe32a0a17887287
+SHA256: b1eb5022ee0ddb4cd4a01050111deae0ea6b2dbfaf8e46557d2feca1eb95c9f5
+Section: python
+Priority: optional
+Homepage: https://eminsk.github.io/#pyfasm
+Description: Universal No-GIL & PyPy to pure FASM x64 native compiler
+ PyFASM64 is a native cross-platform compiler translating Python (3.8-3.16,
+ No-GIL 3.13t-3.16t, PyPy 3.8-3.12) directly to pure x86_64 Flat Assembler
+ with true hardware multithreading for Linux ELF, Apple macOS, Windows PE64,
+ DLL and bare-metal flat binaries. Fully backward compatible with legacy pyfasm.
+
 Package: python3-xlsx-viewer-pro
 Source: python-xlsx-viewer-pro
 Version: 1.0.7-1
