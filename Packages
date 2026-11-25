@@ -635,6 +635,30 @@ Description: All-in-One Wildberries SDK, CLI, Desktop GUI & MCP Server
  pricing engine, Search Rank Tracker, Smart Review Analyzer (offline & LLM),
  Excel export, and Native MCP Server (wb-mcp / wb-parser / wb-sdk / wb-gui).
 
+Package: python3-wb-sdk-pro
+Source: python-wb-sdk-pro
+Version: 2.2.1-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 269
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-wb-sdk-pro_2.2.1-1_all.deb
+Size: 54800
+MD5sum: bfcab41744d3a13ce1a09edf56d50134
+SHA1: 55bc20aad3ba814986d58f3b514f2ffab57383e1
+SHA256: c7db5b234d257cfb4a0a522683fe7407702edeb6f95da1509bc2cc1189b0bad8
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/wildberries_parser
+Description: All-in-One Wildberries SDK, CLI & MCP Server
+ Pure-Python SDK combining direct wbbasket.ru CDN card extraction,
+ dynamic basket-01..65+ upstreams routing, feedbacks1/2 sharding, WB Wallet
+ pricing engine, Search Rank Tracker, Smart Review Analyzer (offline & LLM),
+ SQLite price tracking, Telegram alerts, Excel/CSV/JSON export, 11-command CLI
+ (wb-parser / wb-sdk), and 8-tool MCP Server (wb-mcp). Desktop GUI (wb-gui)
+ requires optional customtkinter/Pillow via pip/uv extra [gui].
+
 Package: python3-xlsx-viewer-pro
 Source: python-xlsx-viewer-pro
 Version: 1.0.7-1
