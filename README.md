@@ -4,7 +4,7 @@ Official APT repository hosting native Debian/Ubuntu `.deb` packages for librari
 
 ---
 
-## вљЎ 1-Line Quickstart
+## ⚡ 1-Line Quickstart
 
 Run this single command on any Ubuntu (20.04, 22.04, 24.04+) or Debian (11, 12, 13+) system:
 
@@ -32,7 +32,7 @@ sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nan
 
 ---
 
-## рџ“¦ Packages in this PPA
+## 📦 Packages in this PPA
 
 | Package | Upstream Repository | Description |
 |---|---|---|
@@ -47,7 +47,7 @@ sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nan
 
 ---
 
-## рџ›  Manual Configuration (Without script)
+## 🛠️ Manual Configuration (Without script)
 
 ```bash
 # 1. Download and trust the GPG key
