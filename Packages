@@ -224,14 +224,14 @@ Source: python-avito-sdk
 Version: 0.4.4-1
 Architecture: all
 Maintainer: eminsk <M_N_N@tut.by>
-Installed-Size: 808
+Installed-Size: 811
 Depends: python3-bs4, python3-openpyxl, python3-requests, python3:any
 Recommends: python3-httpx
 Filename: ./python3-avito-sdk_0.4.4-1_all.deb
-Size: 447270
-MD5sum: 08938320ad5d1a36d9dfe04e6a0e4ffc
-SHA1: 7a0799892cb8a46eed515878a9018a39cb395ca0
-SHA256: 53de1fc3b8273bd417825c15082debaf9abedbbbcb52a037e3ee8c42123f0812
+Size: 448100
+MD5sum: decd0b14459bae08e39a360e91e43b97
+SHA1: 095eb14434536da19c007fe28722640520553066
+SHA256: 0ed955ed4c8b4aca70f471d5fd3720b88022d4b09ecfe2a48314ccdf396d88ca
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/avito-sdk
@@ -612,6 +612,28 @@ Description: Universal No-GIL & PyPy to pure FASM x64 native compiler
  No-GIL 3.13t-3.16t, PyPy 3.8-3.12) directly to pure x86_64 Flat Assembler
  with true hardware multithreading for Linux ELF, Apple macOS, Windows PE64,
  DLL and bare-metal flat binaries. Fully backward compatible with legacy pyfasm.
+
+Package: python3-wb-sdk-pro
+Source: python-wb-sdk-pro
+Version: 2.2.0-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 263
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-wb-sdk-pro_2.2.0-1_all.deb
+Size: 52650
+MD5sum: b404b5aefdd7077d5c6fe0eb4cc59f5c
+SHA1: 11439c9967c4092aa2d051ea7509a0f7edcf9f52
+SHA256: 28388e2afa753993b95e282da92831566fefbdefbcb5a416c9972be21bd834eb
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/wildberries_parser
+Description: All-in-One Wildberries SDK, CLI, Desktop GUI & MCP Server
+ Modular Python SDK combining direct wbbasket.ru CDN card extraction,
+ dynamic basket-01..65+ upstreams routing, feedbacks1/2 sharding, WB Wallet
+ pricing engine, Search Rank Tracker, Smart Review Analyzer (offline & LLM),
+ Excel export, and Native MCP Server (wb-mcp / wb-parser / wb-sdk / wb-gui).
 
 Package: python3-xlsx-viewer-pro
 Source: python-xlsx-viewer-pro
