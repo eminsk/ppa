@@ -659,6 +659,31 @@ Description: All-in-One Wildberries SDK, CLI & MCP Server
  (wb-parser / wb-sdk), and 8-tool MCP Server (wb-mcp). Desktop GUI (wb-gui)
  requires optional customtkinter/Pillow via pip/uv extra [gui].
 
+Package: python3-wb-sdk-pro
+Source: python-wb-sdk-pro
+Version: 2.3.0-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 329
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-wb-sdk-pro_2.3.0-1_all.deb
+Size: 67202
+MD5sum: 114643ec5af9ffaab80faa82b05796b3
+SHA1: 191f44b33660597a2eac2cf0899dfd27e600b818
+SHA256: 867ac7056e3db0759e3158f0f1fe39366e540c7e8c95ae5534c6543150e9278d
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/wildberries_parser
+Description: All-in-One Wildberries SDK, Free/Paid AI Engine, CLI & MCP Server
+ Pure-Python SDK combining direct wbbasket.ru CDN card extraction,
+ dynamic basket-01..65+ upstreams routing, feedbacks1/2 sharding, WB Wallet
+ pricing engine, Search Rank Tracker, Smart Review Analyzer (offline NLP,
+ free g4f/Ollama, and paid OpenAI/DeepSeek/OpenRouter/ProxyAPI/Groq APIs),
+ SQLite price tracking, Telegram alerts, Excel/CSV/JSON export, 12-command CLI
+ (wb-parser / wb-sdk), and 9-tool MCP Server (wb-mcp). Optional free g4f AI
+ uses [ai] and Desktop GUI (wb-gui) requires [gui].
+
 Package: python3-xlsx-viewer-pro
 Source: python-xlsx-viewer-pro
 Version: 1.0.7-1
