@@ -1,24 +1,24 @@
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Wed, 25 Nov 2026 22:03:45 +0000
+Date: Wed, 25 Nov 2026 22:12:51 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
  9ba2fa9cfaeff76b48b3ae680a7c7c9e            37032 Packages
- 34232bda5fdf6d6b9cf796ba0ba69630             7334 Packages.gz
- af6e2ac0352958adc977cae95b5e2edd              212 Release
+ 9cee04980001891a239b0967dc86d328             7334 Packages.gz
+ 824a6d101adeb73e5fad5fb83a1b9ea7              212 Release
 SHA1:
  2c9690503c09dda822c9a9503ee72cbc10c225a8            37032 Packages
- c9f28b0d1b43e1a1e4eb985cc8dfda2a4739b104             7334 Packages.gz
- 0c67e7bb363b9e86e62b8f76566ca98d8b8fba80              212 Release
+ 9bfdd4c5c19ae1e8f546497e520fd5c5ca5e1bf7             7334 Packages.gz
+ 2d2fb0bc5f905ae0063de666984bb8af225d2be4              212 Release
 SHA256:
  8168661c6b396de337f4193b8377378ae4f69576fa2cf157a747f63472a38681            37032 Packages
- 406a2f29d998bafe49caa0b5fe3568bcd4f7582a91fe2db820b237a2317a1646             7334 Packages.gz
- 820a2570de476c4e4af94f435322de9943ed371480d18c7cb799531eed5f42a2              212 Release
+ 48fd1ed489ebbb1c54914ba0935a62a218aa461eb3a48ee665edab5b5ff64b22             7334 Packages.gz
+ 6a8c6c715c1e58b9760220dba052af8c25f1aaba39226ef4112f9d91cf020a93              212 Release
 SHA512:
  dab58300947c94fa5aadeae567653bf9dc55059d2fccc1b72353633d0ba708476e0ce11e19140def12e27f20f9e8446375fbc2be7025bd1e8de8e3d20e90cf0b            37032 Packages
- 6ec5dfa44c285b8e9c5488f81514c92d54a863158b18d7c939dd3196b12e6aef2f1d0532619842c4296913e73a265c23facd6486f4931aa2ffb80d44cee3ceb6             7334 Packages.gz
- f482222def1a92e21c2ca667e37709a9f12c5a0eb0ff6d81e4189346e4bdb17d17386874feb9f01f310929b71d55fb7aa4a281f4935dc2ded4aed5aefe818ed3              212 Release
+ 89be901e2cc42a263d7e0c37578342821179e21bb95ed7b9d125eb147987585caa28bbd7eaea5ce6b74c98c6596e76db0009f3e00bf32045bba60a597b54ff6d             7334 Packages.gz
+ 0494029e0cf4e2737317757c1af66d787bae6d87ccf9da5a85f1d37f744f51e96528d25be0f22079fa09d7a1935734cc1c80b385396d130f8703ca34d097a89c              212 Release
