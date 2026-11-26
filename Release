@@ -1,24 +1,24 @@
 Architectures: all amd64
 Codename: stable
 Components: main
-Date: Wed, 25 Nov 2026 23:14:45 +0000
+Date: Thu, 26 Nov 2026 01:04:46 +0000
 Description: Official APT repository for eminsk Python packages
 Label: eminsk PPA
 Origin: eminsk PPA
 Suite: stable
 MD5Sum:
- 26735d19f5c1a074575240c132787fa6            40347 Packages
- 71e2031a2c30ad7d520440177e4140f2             7933 Packages.gz
- ce70da90e3e5add440e08c2912283d82              212 Release
+ 8154f0f61169e4c746e81fbd0552e4f0            41516 Packages
+ 86107b6f26fd7dccedef9d7518a3f445             8262 Packages.gz
+ 683d505b6287e63f2c38477269e89a90              212 Release
 SHA1:
- 619a725933c4a88ab8501f7a5c940bd28f87fa44            40347 Packages
- 384a3be9560095f7944d478f9e67e3c78b816fc0             7933 Packages.gz
- 2a04d01a54ff2eb1289e09606800ef93640f9c97              212 Release
+ 396c0e097901634a71ae059e091e7d4e5fa99b75            41516 Packages
+ f086c1fbcf15a442625012fa3456c9d90940a3cb             8262 Packages.gz
+ c55ef9c670bc4110ed64152f3dbad3adb9bf1cac              212 Release
 SHA256:
- 17f257d753d7239f1b48558d6459ba720fe8b718316466450b3a202db50edee9            40347 Packages
- 34d76c03f51593c3bf6e46e39b55541eea52e680f140b315651d6b8e2f20bf0a             7933 Packages.gz
- 4fb3cda275949809989b7cd3fc6d55fe31a6f6276f909ee9324969d346e19c76              212 Release
+ 69e7d9c776f0690ae501b39b050e00a3ae3062ebda666db89ab2dff339b3145a            41516 Packages
+ 2f80b456b12e3f11953baf386c907be7e4460499c3d3bff9bde865b23976718e             8262 Packages.gz
+ da3cb786e4299e18c2e5d008aba86d3bca18b3ba1fa59003b983fa06b82bee8f              212 Release
 SHA512:
- 7154f399480a65bc15383cdbee907705e0acdb2753e9d039d4e4d2db827f2bef7eced89e4e7548998721744c49f32b9340191272fcbdc515b95f6b39ce1c03e0            40347 Packages
- a56479899f37ce56582043f1eea16a7c8cebf3db7998caeca46ada44438a8de2c8b0be0d421bf733eed73e7c858f515e7d18c5c7e97756da799a72db70089de4             7933 Packages.gz
- 14f4eb7818f5961423f38f2a436fa86b6f540b77394dbe51702551bd142f00cc30c00225943d0031b35684b87bed8fae3bba9c72c03f47434e55bb4d19f2150e              212 Release
+ a8d7b2c425dcda18f5e7c3f5171711fa0141e7d0617474ab0815f2556701f9b33b86c4c77c7d6143f633eaa2ee64b36bc256dc2fa19c98b845d12aa670a18d5f            41516 Packages
+ 3cfb08d07c8641fda66a12a78693f83a13714792a4312d32d83424f6db5efafd5fb4a6f036c5aa7b97a5b03bf0e4d79a231f7e4c58e16a7b08257642268a50c7             8262 Packages.gz
+ a221c02cfcd5844ebb56a8385e99886c01ba72ea18603d2a3e6fc15badbd29a639a67b5064daa3fa3b5cb7cb21559bb06f402401791b1c24cee6853b25518325              212 Release

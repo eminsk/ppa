@@ -411,6 +411,31 @@ Description: Minimalist SIMD-accelerated vector search and episodic memory engin
  The SQLite of Vector Search and episodic memory for AI agents in ~120KB.
  Pure C99, AVX2+FMA, ARM NEON, and zero external dependencies.
 
+Package: python3-ozon-sdk-pro
+Source: python-ozon-sdk-pro
+Version: 1.0.0-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 325
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-ozon-sdk-pro_1.0.0-1_all.deb
+Size: 64836
+MD5sum: 9890c92af234620d355b6fb5bc613bb6
+SHA1: d81fd797c543aaa16670fed2ea5eebcd936d779f
+SHA256: 989f9592e3ac880e77027eb6c93763e2b0b0fe0024b2631db3efbe6256fd89a0
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/ozon_parser
+Description: All-in-One Ozon SDK, Smart Reviews, Free/Paid AI Engine, CLI & MCP Server
+ Pure-Python Sync/Async Ozon SDK for Composer API product & category parsing,
+ seller legal company & INN extraction, Ozon Card checkout discount math, Search Rank
+ Tracking, Smart Review Analyzer (offline NLP, free g4f/Ollama, and paid OpenAI/DeepSeek/
+ OpenRouter/ProxyAPI/Groq LLMs), SQLite price tracking, Telegram alerts, Excel/CSV/JSON export,
+ CLI (ozon-parser / ozon-sdk), and 9-tool MCP Server (ozon-mcp).
+ Optional free g4f AI uses [ai], Desktop GUI (ozon-gui) uses [gui], and optional Chrome
+ fallback uses [browser].
+
 Package: python3-pureapk
 Source: python-pureapk
 Version: 1.0.0-1
@@ -693,10 +718,10 @@ Installed-Size: 332
 Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
 Recommends: python3-tk
 Filename: ./python3-wb-sdk-pro_2.3.1-1_all.deb
-Size: 68200
-MD5sum: 9d457606dffbd962fca5632a0f7fb2df
-SHA1: f93a4b0c84c48ee0fc003d6db0a3be9fb15ede3b
-SHA256: 132188acce268882294bdfd3cbc95daf8acc94f3953c2757e8ad9d5a912764f3
+Size: 68194
+MD5sum: a95b766a8db7a5546fa9710e71659c7b
+SHA1: 1353a0bc828983fba99fafbc29972d7abe666646
+SHA256: d2292076ad34f2776907b2bd08a2bd109c5c64ab03942ccf11bdba2bcacd9700
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/wildberries_parser
