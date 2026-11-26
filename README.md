@@ -24,10 +24,11 @@ sudo apt install python3-nanovector
 sudo apt install python3-xlsx-viewer-pro
 sudo apt install python3-yfinance-ta-patterns
 sudo apt install python3-wb-sdk-pro
+sudo apt install python3-ozon-sdk-pro
 sudo apt install python3-pyfasm
 
 # Or install all in a single command
-sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nanorecall python3-nanovector python3-wb-sdk-pro python3-xlsx-viewer-pro python3-yfinance-ta-patterns
+sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nanorecall python3-nanovector python3-ozon-sdk-pro python3-wb-sdk-pro python3-xlsx-viewer-pro python3-yfinance-ta-patterns
 ```
 
 ---
@@ -43,6 +44,7 @@ sudo apt install python3-agentjit python3-avito-sdk python3-nanogemm python3-nan
 | `python3-nanovector` | [eminsk/nanovector](https://github.com/eminsk/nanovector) | The SQLite of Vector Search & Episodic Memory (~120KB) |
 | `python3-xlsx-viewer-pro` | [eminsk/xlsx_vievers](https://github.com/eminsk/xlsx_vievers) | Excel formula engine (129 functions), SIMD math & desktop GUI |
 | `python3-wb-sdk-pro` | [eminsk/wildberries_parser](https://github.com/eminsk/wildberries_parser) | All-in-One Wildberries Sync/Async SDK, WB Wallet, Rank Tracker, Smart Reviews + Free/Paid AI (`g4f`/Ollama/OpenAI/DeepSeek), 12 CLI & 9 MCP Tools |
+| `python3-ozon-sdk-pro` | [eminsk/ozon_parser](https://github.com/eminsk/ozon_parser) | All-in-One Ozon Sync/Async SDK, Seller INN, Ozon Card, Rank Tracker, Smart Reviews + Free/Paid AI (`g4f`/Ollama/OpenAI/DeepSeek), 13 CLI & 9 MCP Tools |
 | `python3-yfinance-ta-patterns` | [eminsk/yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns) | Candlestick pattern scanner & backtesting engine |
 
 ---
