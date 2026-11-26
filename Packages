@@ -436,6 +436,31 @@ Description: All-in-One Ozon SDK, Smart Reviews, Free/Paid AI Engine, CLI & MCP 
  Optional free g4f AI uses [ai], Desktop GUI (ozon-gui) uses [gui], and optional Chrome
  fallback uses [browser].
 
+Package: python3-ozon-sdk-pro
+Source: python-ozon-sdk-pro
+Version: 1.1.0-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 610
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-ozon-sdk-pro_1.1.0-1_all.deb
+Size: 233604
+MD5sum: bf0d2c1753a9e6ccd4f8403141ed834a
+SHA1: 63f5b423018eca50883e75916fc5d218a4cfecd2
+SHA256: 8bfb84ca9b466e1b567924073d659dcec50e4c09286870875af7727993ca6a14
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/ozon_parser
+Description: All-in-One Ozon SDK, Smart Reviews, Free/Paid AI Engine, CLI & MCP Server
+ Pure-Python Sync/Async Ozon SDK for Composer API product & category parsing,
+ seller legal company & INN extraction, Ozon Card checkout discount math, Search Rank
+ Tracking, Smart Review Analyzer (offline NLP, free g4f/Ollama, and paid OpenAI/DeepSeek/
+ OpenRouter/ProxyAPI/Groq LLMs), SQLite price tracking, Telegram alerts, Excel/CSV/JSON export,
+ CLI (ozon-parser / ozon-sdk), and 9-tool MCP Server (ozon-mcp).
+ Optional free g4f AI uses [ai], Desktop GUI (ozon-gui) uses [gui], and optional Chrome
+ fallback uses [browser].
+
 Package: python3-pureapk
 Source: python-pureapk
 Version: 1.0.0-1
@@ -722,6 +747,31 @@ Size: 68194
 MD5sum: a95b766a8db7a5546fa9710e71659c7b
 SHA1: 1353a0bc828983fba99fafbc29972d7abe666646
 SHA256: d2292076ad34f2776907b2bd08a2bd109c5c64ab03942ccf11bdba2bcacd9700
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/wildberries_parser
+Description: All-in-One Wildberries SDK, Free/Paid AI Engine, CLI & MCP Server
+ Pure-Python SDK combining direct wbbasket.ru CDN card extraction,
+ dynamic basket-01..65+ upstreams routing, feedbacks1/2 sharding, WB Wallet
+ pricing engine, Search Rank Tracker, Smart Review Analyzer (offline NLP,
+ free g4f/Ollama, and paid OpenAI/DeepSeek/OpenRouter/ProxyAPI/Groq APIs),
+ SQLite price tracking, Telegram alerts, Excel/CSV/JSON export, 12-command CLI
+ (wb-parser / wb-sdk), and 9-tool MCP Server (wb-mcp). Optional free g4f AI
+ uses [ai] and Desktop GUI (wb-gui) requires [gui].
+
+Package: python3-wb-sdk-pro
+Source: python-wb-sdk-pro
+Version: 2.4.0-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 613
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-wb-sdk-pro_2.4.0-1_all.deb
+Size: 235974
+MD5sum: 671d614d3798ad5b04493c28d97b7db6
+SHA1: 2949145db4c84786e18b454753e1fd2d2315dc60
+SHA256: 32dd9945158a7a66be6a79e9b75745faf750084eb10a4c7912bb816c82b4a60f
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/wildberries_parser
