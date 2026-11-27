@@ -240,6 +240,27 @@ Description: Autonomous Avito scraping & data extraction SDK
  with price tracking, parameters parsing, and async support. Includes
  CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
 
+Package: python3-avito-sdk
+Source: python-avito-sdk
+Version: 0.4.6-1
+Architecture: all
+Maintainer: eminsk <M_N_N@tut.by>
+Installed-Size: 817
+Depends: python3-bs4, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-httpx
+Filename: ./python3-avito-sdk_0.4.6-1_all.deb
+Size: 448976
+MD5sum: 8b073878bda4884c5a24a9d29303c859
+SHA1: d7228918cfe6e2442b02fb3b6756e985ff8859c3
+SHA256: 0618aa4f7d89cf22ad6ef4905d39a8e49611affb00d89940f23ec8bc2983bdd3
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/avito-sdk
+Description: Autonomous Avito scraping & data extraction SDK
+ High-performance headless Avito scraping and data extraction SDK
+ with price tracking, parameters parsing, and async support. Includes
+ CLI commands 'avito', 'avito-sdk', and 'avito-parser'.
+
 Package: python3-nanogemm
 Source: python-nanogemm
 Version: 0.3.6-1
@@ -474,6 +495,31 @@ Size: 246488
 MD5sum: f44ca3f0d0d746b0663ae2802260e0c2
 SHA1: f21d468a6d9587e46b46bedef030cbb6f7e9b150
 SHA256: 74e077948f2b42ef650485a25b9018197fcfd2d2ee5815f434c8fe47c49c5b43
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/ozon_parser
+Description: All-in-One Ozon SDK, Smart Reviews, Free/Paid AI Engine, CLI & MCP Server
+ Pure-Python Sync/Async Ozon SDK for Composer API product & category parsing,
+ seller legal company & INN extraction, Ozon Card checkout discount math, Search Rank
+ Tracking, Smart Review Analyzer (offline NLP, free g4f/Ollama, and paid OpenAI/DeepSeek/
+ OpenRouter/ProxyAPI/Groq LLMs), SQLite price tracking, Telegram alerts, Excel/CSV/JSON export,
+ CLI (ozon-parser / ozon-sdk), and 9-tool MCP Server (ozon-mcp).
+ Optional free g4f AI uses [ai], Desktop GUI (ozon-gui) uses [gui], and optional Chrome
+ fallback uses [browser].
+
+Package: python3-ozon-sdk-pro
+Source: python-ozon-sdk-pro
+Version: 1.2.1-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 685
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-ozon-sdk-pro_1.2.1-1_all.deb
+Size: 246922
+MD5sum: f5d3c1067e813d909d1c90f44c6c5a08
+SHA1: 25b9d34aa47f0124350b164721e0d68f0925ea75
+SHA256: 3166b64d23c8a44d317351855cfba018d483f124fb1e26d40fa23e021f68d06e
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/ozon_parser
@@ -822,6 +868,31 @@ Size: 250380
 MD5sum: b6622d3c89d6d85a2ad3295993b4c9eb
 SHA1: ba2cde2c3950b06f626e388af9c709b8fb2ad67d
 SHA256: 858b6da991e1662844b373f765637f6e68da852663f7bc6d48a17de253da2870
+Section: python
+Priority: optional
+Homepage: https://github.com/eminsk/wildberries_parser
+Description: All-in-One Wildberries SDK, Free/Paid AI Engine, CLI & MCP Server
+ Pure-Python SDK combining direct wbbasket.ru CDN card extraction,
+ dynamic basket-01..65+ upstreams routing, feedbacks1/2 sharding, WB Wallet
+ pricing engine, Search Rank Tracker, Smart Review Analyzer (offline NLP,
+ free g4f/Ollama, and paid OpenAI/DeepSeek/OpenRouter/ProxyAPI/Groq APIs),
+ SQLite price tracking, Telegram alerts, Excel/CSV/JSON export, 12-command CLI
+ (wb-parser / wb-sdk), and 9-tool MCP Server (wb-mcp). Optional free g4f AI
+ uses [ai] and Desktop GUI (wb-gui) requires [gui].
+
+Package: python3-wb-sdk-pro
+Source: python-wb-sdk-pro
+Version: 2.5.1-1
+Architecture: all
+Maintainer: eminsk <M_N_Nik@yahoo.com>
+Installed-Size: 698
+Depends: python3-httpx, python3-openpyxl, python3-requests, python3:any
+Recommends: python3-tk
+Filename: ./python3-wb-sdk-pro_2.5.1-1_all.deb
+Size: 251202
+MD5sum: 29ae14d6597ec8e7bcde287cd66ea044
+SHA1: e194790c01af4d21b7b1d46f04385dea6327797a
+SHA256: 469ac2afc79bdf22903b126866e4c9852df2efde79a985e006bf758f81966230
 Section: python
 Priority: optional
 Homepage: https://github.com/eminsk/wildberries_parser
